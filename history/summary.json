@@ -22,19 +22,19 @@
     "url": "https://CalDB.de",
     "icon": "https://www.openapis.org/wp-content/uploads/sites/3/2019/06/favicon-140x140.png",
     "slug": "cal-db-de",
-    "status": "degraded",
-    "uptime": "0.01%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
-    "time": 581,
-    "timeDay": 581,
-    "timeWeek": 581,
-    "timeMonth": 581,
-    "timeYear": 581,
+    "status": "down",
+    "uptime": "0.02%",
+    "uptimeDay": "0.02%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "0.02%",
+    "uptimeYear": "0.02%",
+    "time": 563,
+    "timeDay": 563,
+    "timeWeek": 563,
+    "timeMonth": 563,
+    "timeYear": 563,
     "dailyMinutesDown": {
-      "2025-05-02": 98
+      "2025-05-02": 117
     }
   },
   {
