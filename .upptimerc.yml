@@ -43,25 +43,25 @@ sites:
     assignees:
     - ADoebeling
 
-  - name: Feiert.ag auf GitHub
+  - name: 'Feiert.ag auf GitHub'
     url: https://github.com/feiert-ag/
     icon: https://github.com/favicon.ico
     maxResponseTime: 1000
     skipDeleteIssues: true
 
-  - name: Referenz: Google.com
+  - name: 'Referenz: Google.com'
     url: https://google.com
     icon: https://www.google.com/favicon.ico
     maxResponseTime: 1000
     skipDeleteIssues: true
 
-  - name: Referenz: Cloudflare.com
+  - name: 'Referenz: Cloudflare.com'
     url: https://cloudflare.com
     icon: https://cloudflare.com/favicon.ico
     maxResponseTime: 1000
     skipDeleteIssues: true
 
-  - name: Referenz: Amazon.com
+  - name: 'Referenz: Amazon.com'
     url: https://amazon.com.com
     icon: https://amazon.com/favicon.ico
     maxResponseTime: 1000
