@@ -91,6 +91,10 @@ status-website:
       href: https://CalDB.de
     - title: Issues on GitHub
       href: https://github.com/Feiert-ag/status/issues
+
+i18n:
+  footer: This page is [open source]($REPO), powered by [Upptime](https://upptime.js.org)<br>[Impressum](https://legal.doebeling.de/impressum), [Datenschutzerklärung](https://legal.doebeling.de/datenschutzerklaerung)
+
       
 
 
