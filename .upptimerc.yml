@@ -6,17 +6,23 @@ sites:
   - name: Feiert.ag
     url: https://Feiert.ag
     icon: https://avatars.githubusercontent.com/u/156091420
-    maxResponseTime: 1000
+    maxResponseTime: 500
     assignees:
     - ADoebeling
-    skipDeleteIssues: true
+    
   - name: CalDB.de
     url: https://CalDB.de
     icon: https://www.openapis.org/wp-content/uploads/sites/3/2019/06/favicon-140x140.png
     maxResponseTime: 500
     assignees:
     - ADoebeling
-    skipDeleteIssues: true
+
+  - name: Doebeling.de
+    url: https://Doebeling.de
+    icon: https://Doebeling.de/favicon.ico
+    maxResponseTime: 500
+    assignees:
+    - ADoebeling
 
 
 status-website:
