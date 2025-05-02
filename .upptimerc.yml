@@ -6,7 +6,7 @@ sites:
   - name: Feiert.ag
     url: https://Feiert.ag
     icon: https://avatars.githubusercontent.com/u/156091420
-    maxResponseTime: 500
+    maxResponseTime: 1000
     assignees:
     - ADoebeling
     skipDeleteIssues: true
