@@ -1,34 +1,80 @@
 # Change these first
 owner: Feiert-ag # Your GitHub organization or username, where this repository lives
 repo: status # The name of this repository
+user-agent: MopsFrank
 
 sites:
-  - name: Feiert.ag
+  - name: 'Frontend: Feiert.ag'
     url: https://Feiert.ag
     icon: https://avatars.githubusercontent.com/u/156091420
     maxResponseTime: 500
-    assignees:
-    - ADoebeling
-    
-  - name: CalDB.de
-    url: https://CalDB.de
-    icon: https://www.openapis.org/wp-content/uploads/sites/3/2019/06/favicon-140x140.png
-    maxResponseTime: 500
+    skipDeleteIssues: true
     assignees:
     - ADoebeling
 
-  - name: Doebeling.de
-    url: https://Doebeling.de
-    icon: https://Doebeling.de/favicon.ico
+  - name: 'Redirect: www.Feiert.ag -> Feiert.ag'
+    url: https://www.Feiert.ag
+    icon: https://avatars.githubusercontent.com/u/156091420
     maxResponseTime: 500
+    skipDeleteIssues: true
+    expectedStatusCode:
+    - 301
     assignees:
     - ADoebeling
+    
+  - name: 'API-Backend: CalDB.de'
+    url: https://CalDB.de
+    icon: https://www.openapis.org/wp-content/uploads/sites/3/2019/06/favicon-140x140.png
+    maxResponseTime: 500
+    skipDeleteIssues: true
+    assignees:
+    - ADoebeling
+
+  - name: 'API-Request: GET:/v1/projects'
+    url: https://CalDB.de/v1/projects
+    headers:
+    - "Authorization: Bearer $CALDB_TOKEN"
+    - "Content-Type: application/json"
+    - "User-Agent: Upptime/GitHub Action"
+    __dangerous__body_down_if_text_missing: '"@id": "https://caldb.de/v1/projects/cafa1bf6-42a3-502f-ad67-9f0455946b56"'
+    icon: https://www.openapis.org/wp-content/uploads/sites/3/2019/06/favicon-140x140.png
+    maxResponseTime: 500
+    skipDeleteIssues: true
+    assignees:
+    - ADoebeling
+
+  - name: Feiert.ag auf GitHub
+    url: https://github.com/feiert-ag/
+    icon: https://github.com/favicon.ico
+    maxResponseTime: 1000
+    skipDeleteIssues: true
+
+  - name: Referenz: Google.com
+    url: https://google.com
+    icon: https://www.google.com/favicon.ico
+    maxResponseTime: 1000
+    skipDeleteIssues: true
+
+  - name: Referenz: Cloudflare.com
+    url: https://cloudflare.com
+    icon: https://cloudflare.com/favicon.ico
+    maxResponseTime: 1000
+    skipDeleteIssues: true
+
+  - name: Referenz: Amazon.com
+    url: https://amazon.com.com
+    icon: https://amazon.com/favicon.ico
+    maxResponseTime: 1000
+    skipDeleteIssues: true
+
 
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.feiert.ag
+  robotsText: "User-agent: * \n Disallow: /"
+  theme: light
   # baseUrl: /your-repo-name
   logoUrl: https://avatars.githubusercontent.com/u/156091420
   name: Status
@@ -37,12 +83,22 @@ status-website:
   navbar:
     - title: Status
       href: /
+    - title: Feiert.ag
+      href: https://Feiert.ag
+    - title: CalDB.de
+      href: https://CalDB.de
     - title: Issues on GitHub
       href: https://github.com/Feiert-ag/status/issues
+    - title: Impressum
+      href: https://legal.doebeling.de/impressum/
+    - title: Datenschutzerklärung
+      href: https://legal.doebeling.de/datenschutzerklaerung/
+      
 
-  commitMessages:
-    commitAuthorName: "MopsFrank [bot]"
-    commitAuthorEmail: "mopsfrank.bot@doebeling.de"
+
+commitMessages:
+  commitAuthorName: "MopsFrank [bot]"
+  commitAuthorEmail: "mopsfrank.bot@doebeling.de"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
