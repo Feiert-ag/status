@@ -23,18 +23,18 @@
     "icon": "https://www.openapis.org/wp-content/uploads/sites/3/2019/06/favicon-140x140.png",
     "slug": "cal-db-de",
     "status": "down",
-    "uptime": "0.02%",
-    "uptimeDay": "0.02%",
-    "uptimeWeek": "0.02%",
-    "uptimeMonth": "0.02%",
-    "uptimeYear": "0.02%",
+    "uptime": "0.56%",
+    "uptimeDay": "0.56%",
+    "uptimeWeek": "0.56%",
+    "uptimeMonth": "0.56%",
+    "uptimeYear": "0.56%",
     "time": 563,
     "timeDay": 563,
     "timeWeek": 563,
     "timeMonth": 563,
     "timeYear": 563,
     "dailyMinutesDown": {
-      "2025-05-02": 117
+      "2025-05-02": 138
     }
   },
   {
