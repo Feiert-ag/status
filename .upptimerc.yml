@@ -40,5 +40,9 @@ status-website:
     - title: Issues on GitHub
       href: https://github.com/Feiert-ag/status/issues
 
+  commitMessages:
+    commitAuthorName: "MopsFrank [bot]"
+    commitAuthorEmail: "mopsfrank.bot@doebeling.de"
+
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
