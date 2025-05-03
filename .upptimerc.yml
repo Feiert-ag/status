@@ -230,7 +230,7 @@ status-website:
   theme: light
   links:
     - rel: stylesheet
-      href: https://raw.githubusercontent.com/ADoebeling/status-page/refs/heads/1-fix-max-image-width/static/global.css
+      href: /width-bugfix.css
   # baseUrl: /your-repo-name
   logoUrl: https://avatars.githubusercontent.com/u/156091420
   name: Status
