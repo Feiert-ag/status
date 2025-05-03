@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 197,
-    "timeDay": 197,
-    "timeWeek": 197,
-    "timeMonth": 197,
-    "timeYear": 197,
+    "time": 196,
+    "timeDay": 196,
+    "timeWeek": 196,
+    "timeMonth": 196,
+    "timeYear": 196,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 184,
-    "timeDay": 184,
-    "timeWeek": 184,
-    "timeMonth": 184,
-    "timeYear": 184,
+    "time": 180,
+    "timeDay": 180,
+    "timeWeek": 180,
+    "timeMonth": 180,
+    "timeYear": 180,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 30,
-    "timeDay": 30,
-    "timeWeek": 30,
-    "timeMonth": 30,
-    "timeYear": 30,
+    "time": 31,
+    "timeDay": 31,
+    "timeWeek": 31,
+    "timeMonth": 31,
+    "timeYear": 31,
     "dailyMinutesDown": {}
   },
   {
@@ -59,18 +59,18 @@
     "icon": "https://avatars.githubusercontent.com/u/16343502",
     "slug": "cal-db-de-public",
     "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 484,
-    "timeDay": 484,
-    "timeWeek": 484,
-    "timeMonth": 484,
-    "timeYear": 484,
+    "uptime": "2.70%",
+    "uptimeDay": "2.70%",
+    "uptimeWeek": "2.70%",
+    "uptimeMonth": "2.70%",
+    "uptimeYear": "2.70%",
+    "time": 480,
+    "timeDay": 480,
+    "timeWeek": 480,
+    "timeMonth": 480,
+    "timeYear": 480,
     "dailyMinutesDown": {
-      "2025-05-03": 132
+      "2025-05-03": 142
     }
   },
   {
@@ -79,18 +79,18 @@
     "icon": "https://konsoleh.hetzner.com/favicon.ico",
     "slug": "cal-db-de-webserver",
     "status": "down",
-    "uptime": "0.01%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
+    "uptime": "2.71%",
+    "uptimeDay": "2.71%",
+    "uptimeWeek": "2.71%",
+    "uptimeMonth": "2.71%",
+    "uptimeYear": "2.71%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-03": 132
+      "2025-05-03": 142
     }
   },
   {
@@ -99,18 +99,18 @@
     "icon": "https://avatars.githubusercontent.com/u/2387206",
     "slug": "cal-db-de-ssh",
     "status": "down",
-    "uptime": "0.01%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
+    "uptime": "2.70%",
+    "uptimeDay": "2.70%",
+    "uptimeWeek": "2.70%",
+    "uptimeMonth": "2.70%",
+    "uptimeYear": "2.70%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-03": 132
+      "2025-05-03": 142
     }
   },
   {
@@ -119,18 +119,18 @@
     "icon": "https://avatars.githubusercontent.com/u/16343502",
     "slug": "www-cal-db-de-redirect",
     "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
+    "uptime": "2.70%",
+    "uptimeDay": "2.70%",
+    "uptimeWeek": "2.70%",
+    "uptimeMonth": "2.70%",
+    "uptimeYear": "2.70%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-03": 132
+      "2025-05-03": 142
     }
   },
   {
@@ -139,18 +139,18 @@
     "icon": "https://avatars.githubusercontent.com/u/16343502",
     "slug": "cal-db-de-80-redirect",
     "status": "down",
-    "uptime": "0.01%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
+    "uptime": "2.70%",
+    "uptimeDay": "2.70%",
+    "uptimeWeek": "2.70%",
+    "uptimeMonth": "2.70%",
+    "uptimeYear": "2.70%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-03": 132
+      "2025-05-03": 142
     }
   },
   {
@@ -159,18 +159,18 @@
     "icon": "https://avatars.githubusercontent.com/u/16343502",
     "slug": "projects-service-read",
     "status": "down",
-    "uptime": "0.01%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
-    "time": 112,
-    "timeDay": 112,
-    "timeWeek": 112,
-    "timeMonth": 112,
-    "timeYear": 112,
+    "uptime": "2.71%",
+    "uptimeDay": "2.71%",
+    "uptimeWeek": "2.71%",
+    "uptimeMonth": "2.71%",
+    "uptimeYear": "2.71%",
+    "time": 111,
+    "timeDay": 111,
+    "timeWeek": 111,
+    "timeMonth": 111,
+    "timeYear": 111,
     "dailyMinutesDown": {
-      "2025-05-03": 132
+      "2025-05-03": 142
     }
   },
   {
@@ -179,18 +179,18 @@
     "icon": "https://avatars.githubusercontent.com/u/16343502",
     "slug": "domains-service-read",
     "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 112,
-    "timeDay": 112,
-    "timeWeek": 112,
-    "timeMonth": 112,
-    "timeYear": 112,
+    "uptime": "2.69%",
+    "uptimeDay": "2.69%",
+    "uptimeWeek": "2.69%",
+    "uptimeMonth": "2.69%",
+    "uptimeYear": "2.69%",
+    "time": 111,
+    "timeDay": 111,
+    "timeWeek": 111,
+    "timeMonth": 111,
+    "timeYear": 111,
     "dailyMinutesDown": {
-      "2025-05-03": 132
+      "2025-05-03": 142
     }
   },
   {
@@ -199,18 +199,18 @@
     "icon": "https://avatars.githubusercontent.com/u/16343502",
     "slug": "themes-service-read",
     "status": "down",
-    "uptime": "0.01%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
-    "time": 112,
-    "timeDay": 112,
-    "timeWeek": 112,
-    "timeMonth": 112,
-    "timeYear": 112,
+    "uptime": "2.71%",
+    "uptimeDay": "2.71%",
+    "uptimeWeek": "2.71%",
+    "uptimeMonth": "2.71%",
+    "uptimeYear": "2.71%",
+    "time": 110,
+    "timeDay": 110,
+    "timeWeek": 110,
+    "timeMonth": 110,
+    "timeYear": 110,
     "dailyMinutesDown": {
-      "2025-05-03": 132
+      "2025-05-03": 142
     }
   },
   {
@@ -219,18 +219,18 @@
     "icon": "https://avatars.githubusercontent.com/u/16343502",
     "slug": "templates-service-read",
     "status": "down",
-    "uptime": "0.01%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
-    "time": 112,
-    "timeDay": 112,
-    "timeWeek": 112,
-    "timeMonth": 112,
-    "timeYear": 112,
+    "uptime": "2.71%",
+    "uptimeDay": "2.71%",
+    "uptimeWeek": "2.71%",
+    "uptimeMonth": "2.71%",
+    "uptimeYear": "2.71%",
+    "time": 111,
+    "timeDay": 111,
+    "timeWeek": 111,
+    "timeMonth": 111,
+    "timeYear": 111,
     "dailyMinutesDown": {
-      "2025-05-03": 132
+      "2025-05-03": 142
     }
   },
   {
@@ -239,18 +239,18 @@
     "icon": "https://avatars.githubusercontent.com/u/16343502",
     "slug": "views-service-read",
     "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 112,
-    "timeDay": 112,
-    "timeWeek": 112,
-    "timeMonth": 112,
-    "timeYear": 112,
+    "uptime": "2.70%",
+    "uptimeDay": "2.70%",
+    "uptimeWeek": "2.70%",
+    "uptimeMonth": "2.70%",
+    "uptimeYear": "2.70%",
+    "time": 111,
+    "timeDay": 111,
+    "timeWeek": 111,
+    "timeMonth": 111,
+    "timeYear": 111,
     "dailyMinutesDown": {
-      "2025-05-03": 132
+      "2025-05-03": 142
     }
   },
   {
@@ -259,18 +259,18 @@
     "icon": "https://avatars.githubusercontent.com/u/16343502",
     "slug": "views-service-write",
     "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 113,
-    "timeDay": 113,
-    "timeWeek": 113,
-    "timeMonth": 113,
-    "timeYear": 113,
+    "uptime": "2.70%",
+    "uptimeDay": "2.70%",
+    "uptimeWeek": "2.70%",
+    "uptimeMonth": "2.70%",
+    "uptimeYear": "2.70%",
+    "time": 111,
+    "timeDay": 111,
+    "timeWeek": 111,
+    "timeMonth": 111,
+    "timeYear": 111,
     "dailyMinutesDown": {
-      "2025-05-03": 132
+      "2025-05-03": 142
     }
   },
   {
@@ -279,18 +279,18 @@
     "icon": "https://avatars.githubusercontent.com/u/16343502",
     "slug": "calendars-service-read",
     "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 112,
-    "timeDay": 112,
-    "timeWeek": 112,
-    "timeMonth": 112,
-    "timeYear": 112,
+    "uptime": "2.71%",
+    "uptimeDay": "2.71%",
+    "uptimeWeek": "2.71%",
+    "uptimeMonth": "2.71%",
+    "uptimeYear": "2.71%",
+    "time": 110,
+    "timeDay": 110,
+    "timeWeek": 110,
+    "timeMonth": 110,
+    "timeYear": 110,
     "dailyMinutesDown": {
-      "2025-05-03": 132
+      "2025-05-03": 142
     }
   },
   {
@@ -299,18 +299,18 @@
     "icon": "https://avatars.githubusercontent.com/u/16343502",
     "slug": "calendars-service-write",
     "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 114,
-    "timeDay": 114,
-    "timeWeek": 114,
-    "timeMonth": 114,
-    "timeYear": 114,
+    "uptime": "2.70%",
+    "uptimeDay": "2.70%",
+    "uptimeWeek": "2.70%",
+    "uptimeMonth": "2.70%",
+    "uptimeYear": "2.70%",
+    "time": 113,
+    "timeDay": 113,
+    "timeWeek": 113,
+    "timeMonth": 113,
+    "timeYear": 113,
     "dailyMinutesDown": {
-      "2025-05-03": 132
+      "2025-05-03": 142
     }
   },
   {
@@ -319,18 +319,18 @@
     "icon": "https://avatars.githubusercontent.com/u/16343502",
     "slug": "events-service-read",
     "status": "down",
-    "uptime": "0.01%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
-    "time": 112,
-    "timeDay": 112,
-    "timeWeek": 112,
-    "timeMonth": 112,
-    "timeYear": 112,
+    "uptime": "2.71%",
+    "uptimeDay": "2.71%",
+    "uptimeWeek": "2.71%",
+    "uptimeMonth": "2.71%",
+    "uptimeYear": "2.71%",
+    "time": 111,
+    "timeDay": 111,
+    "timeWeek": 111,
+    "timeMonth": 111,
+    "timeYear": 111,
     "dailyMinutesDown": {
-      "2025-05-03": 132
+      "2025-05-03": 142
     }
   },
   {
@@ -339,18 +339,18 @@
     "icon": "https://avatars.githubusercontent.com/u/16343502",
     "slug": "events-service-write",
     "status": "down",
-    "uptime": "0.01%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
-    "time": 112,
-    "timeDay": 112,
-    "timeWeek": 112,
-    "timeMonth": 112,
-    "timeYear": 112,
+    "uptime": "2.71%",
+    "uptimeDay": "2.71%",
+    "uptimeWeek": "2.71%",
+    "uptimeMonth": "2.71%",
+    "uptimeYear": "2.71%",
+    "time": 110,
+    "timeDay": 110,
+    "timeWeek": 110,
+    "timeMonth": 110,
+    "timeYear": 110,
     "dailyMinutesDown": {
-      "2025-05-03": 132
+      "2025-05-03": 142
     }
   },
   {
@@ -359,18 +359,18 @@
     "icon": "https://avatars.githubusercontent.com/u/16343502",
     "slug": "users-service-read",
     "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 112,
-    "timeDay": 112,
-    "timeWeek": 112,
-    "timeMonth": 112,
-    "timeYear": 112,
+    "uptime": "2.71%",
+    "uptimeDay": "2.71%",
+    "uptimeWeek": "2.71%",
+    "uptimeMonth": "2.71%",
+    "uptimeYear": "2.71%",
+    "time": 111,
+    "timeDay": 111,
+    "timeWeek": 111,
+    "timeMonth": 111,
+    "timeYear": 111,
     "dailyMinutesDown": {
-      "2025-05-03": 132
+      "2025-05-03": 142
     }
   },
   {
@@ -384,11 +384,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 362,
-    "timeDay": 362,
-    "timeWeek": 362,
-    "timeMonth": 362,
-    "timeYear": 362,
+    "time": 354,
+    "timeDay": 354,
+    "timeWeek": 354,
+    "timeMonth": 354,
+    "timeYear": 354,
     "dailyMinutesDown": {}
   },
   {
@@ -420,11 +420,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 474,
-    "timeDay": 474,
-    "timeWeek": 474,
-    "timeMonth": 474,
-    "timeYear": 474,
+    "time": 482,
+    "timeDay": 482,
+    "timeWeek": 482,
+    "timeMonth": 482,
+    "timeYear": 482,
     "dailyMinutesDown": {}
   },
   {
@@ -438,11 +438,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 215,
-    "timeDay": 215,
-    "timeWeek": 215,
-    "timeMonth": 215,
-    "timeYear": 215,
+    "time": 210,
+    "timeDay": 210,
+    "timeWeek": 210,
+    "timeMonth": 210,
+    "timeYear": 210,
     "dailyMinutesDown": {}
   }
 ]
