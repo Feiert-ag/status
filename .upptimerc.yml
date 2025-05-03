@@ -10,8 +10,6 @@ sites:
     icon: https://avatars.githubusercontent.com/u/156091420
     maxResponseTime: 500
     skipDeleteIssues: true
-    assignees:
-    - ADoebeling
 
   - name: 'www.Feiert.ag (Redirect)'
     url: https://www.Feiert.ag
@@ -20,8 +18,6 @@ sites:
     skipDeleteIssues: true
     expectedStatusCode:
     - 301
-    assignees:
-    - ADoebeling
 
   - name: 'Feiert.ag:80 (Redirect)'
     url: http://Feiert.ag
@@ -30,8 +26,6 @@ sites:
     skipDeleteIssues: true
     expectedStatusCode:
       - 301
-    assignees:
-      - ADoebeling
     
   - name: 'CalDB.de (Public)'
     url: https://CalDB.de
@@ -39,8 +33,6 @@ sites:
     icon: https://avatars.githubusercontent.com/u/16343502
     maxResponseTime: 500
     skipDeleteIssues: true
-    assignees:
-    - ADoebeling
 
   - name: 'CalDB.de (Webserver)'
     url: https://$CALDB_WEBSERVER
@@ -49,8 +41,6 @@ sites:
     icon: https://konsoleh.hetzner.com/favicon.ico
     maxResponseTime: 500
     skipDeleteIssues: true
-    assignees:
-      - ADoebeling
 
   - name: 'CalDB.de (SSH)'
     url: $CALDB_WEBSERVER
@@ -58,8 +48,6 @@ sites:
     icon: https://avatars.githubusercontent.com/u/2387206
     maxResponseTime: 500
     skipDeleteIssues: true
-    assignees:
-      - ADoebeling
 
   - name: 'www.CalDB.de (Redirect)'
     url: https://www.CalDB.de
@@ -68,8 +56,6 @@ sites:
     skipDeleteIssues: true
     expectedStatusCode:
       - 301
-    assignees:
-      - ADoebeling
 
   - name: 'CalDB.de:80 (Redirect)'
     url: 'http://www.CalDB.de'
@@ -78,8 +64,6 @@ sites:
     skipDeleteIssues: true
     expectedStatusCode:
       - 301
-    assignees:
-      - ADoebeling
 
   - name: 'Projects-Service: Read'
     url: https://CalDB.de/v1/projects/12345678-0000-0000-0000-000000000001
@@ -91,8 +75,6 @@ sites:
     icon: https://avatars.githubusercontent.com/u/16343502
     maxResponseTime: 500
     skipDeleteIssues: true
-    assignees:
-    - ADoebeling
 
   - name: 'Domains-Service: Read'
     url: https://CalDB.de/v1/domains/12345678-0000-0000-0000-000000000001
@@ -104,8 +86,6 @@ sites:
     icon: https://avatars.githubusercontent.com/u/16343502
     maxResponseTime: 500
     skipDeleteIssues: true
-    assignees:
-      - ADoebeling
 
   - name: 'Themes-Service: Read'
     url: https://CalDB.de/v1/themes/12345678-0000-0000-0000-000000000001
@@ -117,8 +97,6 @@ sites:
     icon: https://avatars.githubusercontent.com/u/16343502
     maxResponseTime: 500
     skipDeleteIssues: true
-    assignees:
-      - ADoebeling
 
   - name: 'Templates-Service: Read'
     url: https://CalDB.de/v1/themes/12345678-0000-0000-0000-000000000001
@@ -130,8 +108,6 @@ sites:
     icon: https://avatars.githubusercontent.com/u/16343502
     maxResponseTime: 500
     skipDeleteIssues: true
-    assignees:
-      - ADoebeling
 
   - name: 'Views-Service: Read'
     url: https://CalDB.de/v1/themes/12345678-0000-0000-0000-000000000001
@@ -143,8 +119,6 @@ sites:
     icon: https://avatars.githubusercontent.com/u/16343502
     maxResponseTime: 500
     skipDeleteIssues: true
-    assignees:
-      - ADoebeling
 
   - name: 'Views-Service: Write'
     url: https://CalDB.de/v1/themes
@@ -159,8 +133,6 @@ sites:
     icon: https://avatars.githubusercontent.com/u/16343502
     maxResponseTime: 500
     skipDeleteIssues: true
-    assignees:
-      - ADoebeling
 
   - name: 'Calendars-Service: Read'
     url: https://CalDB.de/v1/calendars/12345678-0000-0000-0000-000000000001
@@ -172,8 +144,6 @@ sites:
     icon: https://avatars.githubusercontent.com/u/16343502
     maxResponseTime: 500
     skipDeleteIssues: true
-    assignees:
-      - ADoebeling
 
   - name: 'Calendars-Service: Write'
     url: https://CalDB.de/v1/themes
@@ -188,8 +158,6 @@ sites:
     icon: https://avatars.githubusercontent.com/u/16343502
     maxResponseTime: 500
     skipDeleteIssues: true
-    assignees:
-      - ADoebeling
 
   - name: 'Events-Service: Read'
     url: https://CalDB.de/v1/calendars/12345678-0000-0000-0000-000000000001
@@ -201,8 +169,6 @@ sites:
     icon: https://avatars.githubusercontent.com/u/16343502
     maxResponseTime: 500
     skipDeleteIssues: true
-    assignees:
-      - ADoebeling
 
   - name: 'Events-Service: Write'
     url: https://CalDB.de/v1/themes
@@ -217,8 +183,6 @@ sites:
     icon: https://avatars.githubusercontent.com/u/16343502
     maxResponseTime: 500
     skipDeleteIssues: true
-    assignees:
-      - ADoebeling
 
   - name: 'Users-Service: Read'
     url: https://CalDB.de/v1/users/12345678-0000-0000-0000-000000000001
@@ -230,8 +194,6 @@ sites:
     icon: https://avatars.githubusercontent.com/u/16343502
     maxResponseTime: 500
     skipDeleteIssues: true
-    assignees:
-      - ADoebeling
 
   - name: 'github.com/Feiert.ag'
     url: https://github.com/feiert-ag/
@@ -266,6 +228,7 @@ status-website:
   cname: status.feiert.ag
   robotsText: "User-agent: * \n Disallow: /"
   theme: light
+  themeUrl: https://raw.githubusercontent.com/ADoebeling/status-page/refs/heads/1-fix-max-image-width/static/global.css
   # baseUrl: /your-repo-name
   logoUrl: https://avatars.githubusercontent.com/u/156091420
   name: Status
