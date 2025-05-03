@@ -22,28 +22,216 @@ sites:
     - 301
     assignees:
     - ADoebeling
+
+  - name: 'Feiert.ag:80 (Redirect)'
+    url: http://Feiert.ag
+    icon: https://avatars.githubusercontent.com/u/156091420
+    maxResponseTime: 500
+    skipDeleteIssues: true
+    expectedStatusCode:
+      - 301
+    assignees:
+      - ADoebeling
     
-  - name: 'CalDB.de'
+  - name: 'CalDB.de (Public)'
     url: https://CalDB.de
-    __dangerous__body_down_if_text_missing: '"/v1/projects":{"get":{"operationId":"api_v1projects_get_collection","tags":["Project"],"responses":{"200":{"description":"Project collection"'
-    icon: https://www.openapis.org/wp-content/uploads/sites/3/2019/06/favicon-140x140.png
+    __dangerous__body_down_if_text_missing: 'Example'
+    icon: https://avatars.githubusercontent.com/u/16343502
     maxResponseTime: 500
     skipDeleteIssues: true
     assignees:
     - ADoebeling
 
-  - name: 'CalDB.de/v1/projects'
-    url: https://CalDB.de/v1/projects
+  - name: 'CalDB.de (Webserver)'
+    url: https://$CALDB_WEBSERVER
+    __dangerous__body_down_if_text_missing: 'Example'
+    __dangerous__disable_verify_peer: true
+    icon: https://konsoleh.hetzner.com/favicon.ico
+    maxResponseTime: 500
+    skipDeleteIssues: true
+    assignees:
+      - ADoebeling
+
+  - name: 'CalDB.de (SSH)'
+    url: $CALDB_WEBSERVER
+    port: 22
+    icon: https://avatars.githubusercontent.com/u/2387206
+    maxResponseTime: 500
+    skipDeleteIssues: true
+    assignees:
+      - ADoebeling
+
+  - name: 'www.CalDB.de (Redirect)'
+    url: https://www.CalDB.de
+    icon: https://avatars.githubusercontent.com/u/16343502
+    maxResponseTime: 500
+    skipDeleteIssues: true
+    expectedStatusCode:
+      - 301
+    assignees:
+      - ADoebeling
+
+  - name: 'CalDB.de:80 (Redirect)'
+    url: 'http://www.CalDB.de'
+    icon: https://avatars.githubusercontent.com/u/16343502
+    maxResponseTime: 500
+    skipDeleteIssues: true
+    expectedStatusCode:
+      - 301
+    assignees:
+      - ADoebeling
+
+  - name: 'Projects-Service: Read'
+    url: https://CalDB.de/v1/projects/12345678-0000-0000-0000-000000000001
     headers:
     - "Authorization: Bearer $CALDB_TOKEN"
     - "Content-Type: application/json"
     - "User-Agent: Upptime/GitHub Action"
-    __dangerous__body_down_if_text_missing: '"@id": "https://caldb.de/v1/projects/cafa1bf6-42a3-502f-ad67-9f0455946b56"'
-    icon: https://www.openapis.org/wp-content/uploads/sites/3/2019/06/favicon-140x140.png
+    __dangerous__body_down_if_text_missing: 'Example'
+    icon: https://avatars.githubusercontent.com/u/16343502
     maxResponseTime: 500
     skipDeleteIssues: true
     assignees:
     - ADoebeling
+
+  - name: 'Domains-Service: Read'
+    url: https://CalDB.de/v1/domains/12345678-0000-0000-0000-000000000001
+    headers:
+      - "Authorization: Bearer $CALDB_TOKEN"
+      - "Content-Type: application/json"
+      - "User-Agent: Upptime/GitHub Action"
+    __dangerous__body_down_if_text_missing: 'Example'
+    icon: https://avatars.githubusercontent.com/u/16343502
+    maxResponseTime: 500
+    skipDeleteIssues: true
+    assignees:
+      - ADoebeling
+
+  - name: 'Themes-Service: Read'
+    url: https://CalDB.de/v1/themes/12345678-0000-0000-0000-000000000001
+    headers:
+      - "Authorization: Bearer $CALDB_TOKEN"
+      - "Content-Type: application/json"
+      - "User-Agent: Upptime/GitHub Action"
+    __dangerous__body_down_if_text_missing: 'Example'
+    icon: https://avatars.githubusercontent.com/u/16343502
+    maxResponseTime: 500
+    skipDeleteIssues: true
+    assignees:
+      - ADoebeling
+
+  - name: 'Templates-Service: Read'
+    url: https://CalDB.de/v1/themes/12345678-0000-0000-0000-000000000001
+    headers:
+      - "Authorization: Bearer $CALDB_TOKEN"
+      - "Content-Type: application/json"
+      - "User-Agent: Upptime/GitHub Action"
+    __dangerous__body_down_if_text_missing: 'Example'
+    icon: https://avatars.githubusercontent.com/u/16343502
+    maxResponseTime: 500
+    skipDeleteIssues: true
+    assignees:
+      - ADoebeling
+
+  - name: 'Views-Service: Read'
+    url: https://CalDB.de/v1/themes/12345678-0000-0000-0000-000000000001
+    headers:
+      - "Authorization: Bearer $CALDB_TOKEN"
+      - "Content-Type: application/json"
+      - "User-Agent: Upptime/GitHub Action"
+    __dangerous__body_down_if_text_missing: 'Example'
+    icon: https://avatars.githubusercontent.com/u/16343502
+    maxResponseTime: 500
+    skipDeleteIssues: true
+    assignees:
+      - ADoebeling
+
+  - name: 'Views-Service: Write'
+    url: https://CalDB.de/v1/themes
+    method: POST
+    headers:
+      - "Authorization: Bearer $CALDB_TOKEN"
+      - "Content-Type: application/json"
+      - "User-Agent: Upptime/GitHub Action"
+    body: tbd
+    expectedStatusCode:
+        - 201
+    icon: https://avatars.githubusercontent.com/u/16343502
+    maxResponseTime: 500
+    skipDeleteIssues: true
+    assignees:
+      - ADoebeling
+
+  - name: 'Calendars-Service: Read'
+    url: https://CalDB.de/v1/calendars/12345678-0000-0000-0000-000000000001
+    headers:
+      - "Authorization: Bearer $CALDB_TOKEN"
+      - "Content-Type: application/json"
+      - "User-Agent: Upptime/GitHub Action"
+    __dangerous__body_down_if_text_missing: 'Example'
+    icon: https://avatars.githubusercontent.com/u/16343502
+    maxResponseTime: 500
+    skipDeleteIssues: true
+    assignees:
+      - ADoebeling
+
+  - name: 'Calendars-Service: Write'
+    url: https://CalDB.de/v1/themes
+    method: POST
+    headers:
+      - "Authorization: Bearer $CALDB_TOKEN"
+      - "Content-Type: application/json"
+      - "User-Agent: Upptime/GitHub Action"
+    body: tbd
+    expectedStatusCode:
+      - 201
+    icon: https://avatars.githubusercontent.com/u/16343502
+    maxResponseTime: 500
+    skipDeleteIssues: true
+    assignees:
+      - ADoebeling
+
+  - name: 'Events-Service: Read'
+    url: https://CalDB.de/v1/calendars/12345678-0000-0000-0000-000000000001
+    headers:
+      - "Authorization: Bearer $CALDB_TOKEN"
+      - "Content-Type: application/json"
+      - "User-Agent: Upptime/GitHub Action"
+    __dangerous__body_down_if_text_missing: 'Example'
+    icon: https://avatars.githubusercontent.com/u/16343502
+    maxResponseTime: 500
+    skipDeleteIssues: true
+    assignees:
+      - ADoebeling
+
+  - name: 'Events-Service: Write'
+    url: https://CalDB.de/v1/themes
+    method: POST
+    headers:
+      - "Authorization: Bearer $CALDB_TOKEN"
+      - "Content-Type: application/json"
+      - "User-Agent: Upptime/GitHub Action"
+    body: tbd
+    expectedStatusCode:
+      - 201
+    icon: https://avatars.githubusercontent.com/u/16343502
+    maxResponseTime: 500
+    skipDeleteIssues: true
+    assignees:
+      - ADoebeling
+
+  - name: 'Users-Service: Read'
+    url: https://CalDB.de/v1/users/12345678-0000-0000-0000-000000000001
+    headers:
+      - "Authorization: Bearer $CALDB_TOKEN"
+      - "Content-Type: application/json"
+      - "User-Agent: Upptime/GitHub Action"
+    __dangerous__body_down_if_text_missing: 'Example'
+    icon: https://avatars.githubusercontent.com/u/16343502
+    maxResponseTime: 500
+    skipDeleteIssues: true
+    assignees:
+      - ADoebeling
 
   - name: 'github.com/Feiert.ag'
     url: https://github.com/feiert-ag/
@@ -52,19 +240,19 @@ sites:
     maxResponseTime: 1000
     skipDeleteIssues: true
 
-  - name: 'Referenz: Google.com'
+  - name: 'Reference: Google.com'
     url: https://google.com
     icon: https://www.google.com/favicon.ico
     maxResponseTime: 1000
     skipDeleteIssues: true
 
-  - name: 'Referenz: Cloudflare.com'
+  - name: 'Reference: Cloudflare.com'
     url: https://cloudflare.com
     icon: https://cloudflare.com/favicon.ico
     maxResponseTime: 1000
     skipDeleteIssues: true
 
-  - name: 'Referenz: Amazon.com'
+  - name: 'Reference: Amazon.com'
     url: https://amazon.com
     icon: https://amazon.com/favicon.ico
     maxResponseTime: 1000
@@ -81,7 +269,7 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://avatars.githubusercontent.com/u/156091420
   name: Status
-  introTitle: "Status der Systeme von Feiert.ag / CalDB.de"
+  introTitle: "Status of Feiert.ag and CalDB.de"
   navbar:
     - title: Status
       href: /
@@ -94,8 +282,6 @@ status-website:
 
 i18n:
   footer: This page is [open source]($REPO), powered by [Upptime](https://upptime.js.org)<br>[Impressum](https://legal.doebeling.de/impressum), [Datenschutzerklärung](https://legal.doebeling.de/datenschutzerklaerung)
-
-      
 
 
 commitMessages:
