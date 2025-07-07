@@ -278,7 +278,7 @@
     "timeMonth": 191,
     "timeYear": 166,
     "dailyMinutesDown": {
-      "2025-07-07": 1060,
+      "2025-07-07": 1072,
       "2025-07-06": 1440,
       "2025-07-05": 1440,
       "2025-07-04": 1440,
@@ -351,7 +351,7 @@
     "timeMonth": 167,
     "timeYear": 236,
     "dailyMinutesDown": {
-      "2025-07-07": 1060,
+      "2025-07-07": 1072,
       "2025-07-06": 1440,
       "2025-07-05": 1440,
       "2025-07-04": 1440,
@@ -433,7 +433,7 @@
     "timeMonth": 123,
     "timeYear": 140,
     "dailyMinutesDown": {
-      "2025-07-07": 1060,
+      "2025-07-07": 1072,
       "2025-07-06": 1440,
       "2025-07-05": 1440,
       "2025-07-04": 1440,
@@ -522,9 +522,9 @@
     "url": "https://github.com/feiert-ag/",
     "icon": "https://github.com/favicon.ico",
     "slug": "github-com-feiert-ag",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -533,7 +533,9 @@
     "timeWeek": 381,
     "timeMonth": 396,
     "timeYear": 395,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-07": 0
+    }
   },
   {
     "name": "Reference: Google.com",
