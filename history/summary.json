@@ -13,7 +13,7 @@
     "time": 239,
     "timeDay": 400,
     "timeWeek": 297,
-    "timeMonth": 225,
+    "timeMonth": 223,
     "timeYear": 239,
     "dailyMinutesDown": {
       "2025-06-05": 23
@@ -33,7 +33,7 @@
     "time": 266,
     "timeDay": 143,
     "timeWeek": 316,
-    "timeMonth": 423,
+    "timeMonth": 424,
     "timeYear": 266,
     "dailyMinutesDown": {
       "2025-08-26": 37,
@@ -56,7 +56,7 @@
     "time": 173,
     "timeDay": 233,
     "timeWeek": 90,
-    "timeMonth": 531,
+    "timeMonth": 546,
     "timeYear": 173,
     "dailyMinutesDown": {
       "2025-08-27": 19,
@@ -76,11 +76,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 553,
+    "time": 552,
     "timeDay": 675,
     "timeWeek": 646,
-    "timeMonth": 576,
-    "timeYear": 553,
+    "timeMonth": 574,
+    "timeYear": 552,
     "dailyMinutesDown": {
       "2025-05-03": 142
     }
@@ -179,7 +179,7 @@
     "time": 132,
     "timeDay": 167,
     "timeWeek": 162,
-    "timeMonth": 142,
+    "timeMonth": 141,
     "timeYear": 132,
     "dailyMinutesDown": {
       "2025-05-03": 142
@@ -199,7 +199,7 @@
     "time": 132,
     "timeDay": 166,
     "timeWeek": 162,
-    "timeMonth": 142,
+    "timeMonth": 141,
     "timeYear": 132,
     "dailyMinutesDown": {
       "2025-05-03": 142
@@ -219,7 +219,7 @@
     "time": 132,
     "timeDay": 166,
     "timeWeek": 162,
-    "timeMonth": 142,
+    "timeMonth": 141,
     "timeYear": 132,
     "dailyMinutesDown": {
       "2025-05-03": 142
@@ -239,7 +239,7 @@
     "time": 132,
     "timeDay": 166,
     "timeWeek": 161,
-    "timeMonth": 142,
+    "timeMonth": 141,
     "timeYear": 132,
     "dailyMinutesDown": {
       "2025-05-03": 142
@@ -259,7 +259,7 @@
     "time": 132,
     "timeDay": 165,
     "timeWeek": 162,
-    "timeMonth": 142,
+    "timeMonth": 141,
     "timeYear": 132,
     "dailyMinutesDown": {
       "2025-05-03": 142
@@ -279,10 +279,10 @@
     "time": 283,
     "timeDay": 166,
     "timeWeek": 2364,
-    "timeMonth": 726,
+    "timeMonth": 743,
     "timeYear": 283,
     "dailyMinutesDown": {
-      "2025-09-10": 1400,
+      "2025-09-10": 1409,
       "2025-09-09": 1440,
       "2025-09-08": 1440,
       "2025-09-07": 1440,
@@ -397,7 +397,7 @@
     "time": 132,
     "timeDay": 166,
     "timeWeek": 161,
-    "timeMonth": 142,
+    "timeMonth": 141,
     "timeYear": 132,
     "dailyMinutesDown": {
       "2025-05-03": 142
@@ -417,10 +417,10 @@
     "time": 325,
     "timeDay": 165,
     "timeWeek": 2360,
-    "timeMonth": 726,
+    "timeMonth": 742,
     "timeYear": 325,
     "dailyMinutesDown": {
-      "2025-09-10": 1400,
+      "2025-09-10": 1409,
       "2025-09-09": 1440,
       "2025-09-08": 1440,
       "2025-09-07": 1440,
@@ -544,7 +544,7 @@
     "time": 132,
     "timeDay": 165,
     "timeWeek": 161,
-    "timeMonth": 142,
+    "timeMonth": 141,
     "timeYear": 132,
     "dailyMinutesDown": {
       "2025-05-03": 142
@@ -564,10 +564,10 @@
     "time": 230,
     "timeDay": 167,
     "timeWeek": 161,
-    "timeMonth": 142,
+    "timeMonth": 141,
     "timeYear": 230,
     "dailyMinutesDown": {
-      "2025-09-10": 1400,
+      "2025-09-10": 1409,
       "2025-09-09": 1440,
       "2025-09-08": 1440,
       "2025-09-07": 1440,
@@ -710,7 +710,7 @@
     "time": 134,
     "timeDay": 166,
     "timeWeek": 160,
-    "timeMonth": 142,
+    "timeMonth": 141,
     "timeYear": 134,
     "dailyMinutesDown": {
       "2025-05-03": 142
@@ -752,7 +752,7 @@
     "time": 175,
     "timeDay": 142,
     "timeWeek": 163,
-    "timeMonth": 164,
+    "timeMonth": 165,
     "timeYear": 175,
     "dailyMinutesDown": {
       "2025-08-21": 30,
@@ -766,19 +766,19 @@
     "url": "https://cloudflare.com",
     "icon": "https://cloudflare.com/favicon.ico",
     "slug": "reference-cloudflare-com",
-    "status": "degraded",
+    "status": "up",
     "uptime": "98.99%",
-    "uptimeDay": "83.88%",
-    "uptimeWeek": "81.15%",
-    "uptimeMonth": "95.66%",
+    "uptimeDay": "83.34%",
+    "uptimeWeek": "81.08%",
+    "uptimeMonth": "95.65%",
     "uptimeYear": "98.99%",
-    "time": 1224,
-    "timeDay": 1461,
-    "timeWeek": 1500,
+    "time": 1223,
+    "timeDay": 1440,
+    "timeWeek": 1501,
     "timeMonth": 1425,
-    "timeYear": 1224,
+    "timeYear": 1223,
     "dailyMinutesDown": {
-      "2025-09-10": 226,
+      "2025-09-10": 234,
       "2025-09-09": 339,
       "2025-09-08": 212,
       "2025-09-07": 229,
@@ -801,7 +801,7 @@
     "time": 281,
     "timeDay": 591,
     "timeWeek": 403,
-    "timeMonth": 294,
+    "timeMonth": 292,
     "timeYear": 281,
     "dailyMinutesDown": {
       "2025-07-17": 19
