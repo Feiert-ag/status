@@ -282,7 +282,7 @@
     "timeMonth": 741,
     "timeYear": 282,
     "dailyMinutesDown": {
-      "2025-09-12": 1194,
+      "2025-09-12": 1210,
       "2025-09-11": 1440,
       "2025-09-10": 1440,
       "2025-09-09": 1440,
@@ -422,7 +422,7 @@
     "timeMonth": 741,
     "timeYear": 324,
     "dailyMinutesDown": {
-      "2025-09-12": 1194,
+      "2025-09-12": 1210,
       "2025-09-11": 1440,
       "2025-09-10": 1440,
       "2025-09-09": 1440,
@@ -571,7 +571,7 @@
     "timeMonth": 150,
     "timeYear": 230,
     "dailyMinutesDown": {
-      "2025-09-12": 1194,
+      "2025-09-12": 1210,
       "2025-09-11": 1440,
       "2025-09-10": 1440,
       "2025-09-09": 1440,
@@ -772,17 +772,17 @@
     "url": "https://cloudflare.com",
     "icon": "https://cloudflare.com/favicon.ico",
     "slug": "reference-cloudflare-com",
-    "status": "up",
-    "uptime": "99.18%",
-    "uptimeDay": "88.47%",
-    "uptimeWeek": "84.56%",
-    "uptimeMonth": "96.45%",
-    "uptimeYear": "99.18%",
-    "time": 1244,
-    "timeDay": 1470,
-    "timeWeek": 1505,
-    "timeMonth": 1433,
-    "timeYear": 1244,
+    "status": "degraded",
+    "uptime": "99.20%",
+    "uptimeDay": "88.44%",
+    "uptimeWeek": "84.89%",
+    "uptimeMonth": "96.52%",
+    "uptimeYear": "99.20%",
+    "time": 1247,
+    "timeDay": 1516,
+    "timeWeek": 1510,
+    "timeMonth": 1436,
+    "timeYear": 1247,
     "dailyMinutesDown": {
       "2025-09-12": 153,
       "2025-09-11": 238,
@@ -790,7 +790,7 @@
       "2025-09-09": 339,
       "2025-09-08": 212,
       "2025-09-07": 229,
-      "2025-09-06": 149
+      "2025-09-06": 116
     }
   },
   {
