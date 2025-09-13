@@ -13,7 +13,7 @@
     "time": 239,
     "timeDay": 97,
     "timeWeek": 300,
-    "timeMonth": 219,
+    "timeMonth": 217,
     "timeYear": 239,
     "dailyMinutesDown": {
       "2025-06-05": 23
@@ -33,7 +33,7 @@
     "time": 266,
     "timeDay": 110,
     "timeWeek": 256,
-    "timeMonth": 424,
+    "timeMonth": 425,
     "timeYear": 266,
     "dailyMinutesDown": {
       "2025-08-26": 37,
@@ -56,7 +56,7 @@
     "time": 171,
     "timeDay": 35,
     "timeWeek": 89,
-    "timeMonth": 532,
+    "timeMonth": 546,
     "timeYear": 171,
     "dailyMinutesDown": {
       "2025-08-27": 19,
@@ -79,7 +79,7 @@
     "time": 551,
     "timeDay": 356,
     "timeWeek": 580,
-    "timeMonth": 565,
+    "timeMonth": 563,
     "timeYear": 551,
     "dailyMinutesDown": {
       "2025-05-03": 142
@@ -219,7 +219,7 @@
     "time": 132,
     "timeDay": 104,
     "timeWeek": 144,
-    "timeMonth": 139,
+    "timeMonth": 138,
     "timeYear": 132,
     "dailyMinutesDown": {
       "2025-05-03": 142
@@ -239,7 +239,7 @@
     "time": 132,
     "timeDay": 102,
     "timeWeek": 143,
-    "timeMonth": 139,
+    "timeMonth": 138,
     "timeYear": 132,
     "dailyMinutesDown": {
       "2025-05-03": 142
@@ -259,7 +259,7 @@
     "time": 132,
     "timeDay": 103,
     "timeWeek": 143,
-    "timeMonth": 139,
+    "timeMonth": 138,
     "timeYear": 132,
     "dailyMinutesDown": {
       "2025-05-03": 142
@@ -279,10 +279,10 @@
     "time": 280,
     "timeDay": 103,
     "timeWeek": 2350,
-    "timeMonth": 723,
+    "timeMonth": 740,
     "timeYear": 280,
     "dailyMinutesDown": {
-      "2025-09-13": 1399,
+      "2025-09-13": 1417,
       "2025-09-12": 1440,
       "2025-09-11": 1440,
       "2025-09-10": 1440,
@@ -400,7 +400,7 @@
     "time": 131,
     "timeDay": 103,
     "timeWeek": 144,
-    "timeMonth": 139,
+    "timeMonth": 138,
     "timeYear": 131,
     "dailyMinutesDown": {
       "2025-05-03": 142
@@ -420,10 +420,10 @@
     "time": 321,
     "timeDay": 102,
     "timeWeek": 2347,
-    "timeMonth": 723,
+    "timeMonth": 740,
     "timeYear": 321,
     "dailyMinutesDown": {
-      "2025-09-13": 1399,
+      "2025-09-13": 1417,
       "2025-09-12": 1440,
       "2025-09-11": 1440,
       "2025-09-10": 1440,
@@ -550,7 +550,7 @@
     "time": 132,
     "timeDay": 101,
     "timeWeek": 143,
-    "timeMonth": 139,
+    "timeMonth": 138,
     "timeYear": 132,
     "dailyMinutesDown": {
       "2025-05-03": 142
@@ -573,7 +573,7 @@
     "timeMonth": 149,
     "timeYear": 229,
     "dailyMinutesDown": {
-      "2025-09-13": 1399,
+      "2025-09-13": 1417,
       "2025-09-12": 1440,
       "2025-09-11": 1440,
       "2025-09-10": 1440,
@@ -719,7 +719,7 @@
     "time": 134,
     "timeDay": 103,
     "timeWeek": 142,
-    "timeMonth": 139,
+    "timeMonth": 138,
     "timeYear": 134,
     "dailyMinutesDown": {
       "2025-05-03": 142
@@ -739,7 +739,7 @@
     "time": 445,
     "timeDay": 377,
     "timeWeek": 518,
-    "timeMonth": 423,
+    "timeMonth": 421,
     "timeYear": 445,
     "dailyMinutesDown": {
       "2025-08-11": 14,
@@ -761,7 +761,7 @@
     "time": 174,
     "timeDay": 137,
     "timeWeek": 145,
-    "timeMonth": 164,
+    "timeMonth": 160,
     "timeYear": 174,
     "dailyMinutesDown": {
       "2025-08-21": 30,
@@ -775,17 +775,17 @@
     "url": "https://cloudflare.com",
     "icon": "https://cloudflare.com/favicon.ico",
     "slug": "reference-cloudflare-com",
-    "status": "up",
-    "uptime": "99.21%",
-    "uptimeDay": "85.70%",
-    "uptimeWeek": "84.98%",
-    "uptimeMonth": "96.54%",
-    "uptimeYear": "99.21%",
-    "time": 1267,
-    "timeDay": 1602,
-    "timeWeek": 1481,
-    "timeMonth": 1449,
-    "timeYear": 1267,
+    "status": "degraded",
+    "uptime": "99.23%",
+    "uptimeDay": "85.92%",
+    "uptimeWeek": "85.21%",
+    "uptimeMonth": "96.60%",
+    "uptimeYear": "99.23%",
+    "time": 1268,
+    "timeDay": 1630,
+    "timeWeek": 1483,
+    "timeMonth": 1453,
+    "timeYear": 1268,
     "dailyMinutesDown": {
       "2025-09-13": 190,
       "2025-09-12": 228,
@@ -793,7 +793,7 @@
       "2025-09-10": 241,
       "2025-09-09": 339,
       "2025-09-08": 212,
-      "2025-09-07": 69
+      "2025-09-07": 45
     }
   },
   {
