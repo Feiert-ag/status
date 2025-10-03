@@ -287,7 +287,7 @@
     "timeMonth": 733,
     "timeYear": 270,
     "dailyMinutesDown": {
-      "2025-10-03": 587,
+      "2025-10-03": 595,
       "2025-10-02": 1440,
       "2025-10-01": 1440,
       "2025-09-30": 1440,
@@ -448,7 +448,7 @@
     "timeMonth": 799,
     "timeYear": 313,
     "dailyMinutesDown": {
-      "2025-10-03": 587,
+      "2025-10-03": 595,
       "2025-10-02": 1440,
       "2025-10-01": 1440,
       "2025-09-30": 1440,
@@ -618,7 +618,7 @@
     "timeMonth": 161,
     "timeYear": 220,
     "dailyMinutesDown": {
-      "2025-10-03": 587,
+      "2025-10-03": 595,
       "2025-10-02": 1440,
       "2025-10-01": 1440,
       "2025-09-30": 1440,
@@ -849,7 +849,7 @@
     "time": 1379,
     "timeDay": 1601,
     "timeWeek": 1455,
-    "timeMonth": 1523,
+    "timeMonth": 1524,
     "timeYear": 1379,
     "dailyMinutesDown": {
       "2025-10-03": 135,
@@ -869,19 +869,19 @@
     "url": "https://amazon.com",
     "icon": "https://amazon.com/favicon.ico",
     "slug": "reference-amazon-com",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.46%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
-    "time": 309,
-    "timeDay": 1955,
-    "timeWeek": 690,
-    "timeMonth": 459,
-    "timeYear": 309,
+    "time": 308,
+    "timeDay": 1373,
+    "timeWeek": 636,
+    "timeMonth": 451,
+    "timeYear": 308,
     "dailyMinutesDown": {
-      "2025-10-03": 0,
+      "2025-10-03": 8,
       "2025-07-17": 19
     }
   }
