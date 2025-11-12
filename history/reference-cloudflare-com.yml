@@ -1,7 +1,7 @@
 url: https://cloudflare.com
-status: degraded
+status: up
 code: 200
-responseTime: 1289
-lastUpdated: 2025-11-12T17:45:20.166Z
+responseTime: 638
+lastUpdated: 2025-11-12T18:12:51.169Z
 startTime: 2025-05-03T07:14:13.834Z
 generator: Upptime <https://github.com/upptime/upptime>
