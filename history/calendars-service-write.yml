@@ -1,7 +1,7 @@
 url: https://CalDB.de/v1/themes
-status: down
-code: 404
-responseTime: 308
-lastUpdated: 2026-05-23T01:28:17.635Z
+status: degraded
+code: 522
+responseTime: 19595
+lastUpdated: 2026-05-23T11:13:13.971Z
 startTime: 2025-05-03T07:14:04.122Z
 generator: Upptime <https://github.com/upptime/upptime>
