@@ -13,7 +13,7 @@
     "time": 335,
     "timeDay": 207,
     "timeWeek": 148,
-    "timeMonth": 142,
+    "timeMonth": 144,
     "timeYear": 346,
     "dailyMinutesDown": {
       "2025-09-22": 18,
@@ -37,7 +37,7 @@
     "time": 329,
     "timeDay": 293,
     "timeWeek": 196,
-    "timeMonth": 185,
+    "timeMonth": 183,
     "timeYear": 346,
     "dailyMinutesDown": {
       "2025-08-20": 15,
@@ -70,7 +70,7 @@
     "time": 138,
     "timeDay": 138,
     "timeWeek": 88,
-    "timeMonth": 80,
+    "timeMonth": 81,
     "timeYear": 150,
     "dailyMinutesDown": {
       "2025-07-15": 12,
@@ -95,7 +95,7 @@
     "time": 550,
     "timeDay": 481,
     "timeWeek": 376,
-    "timeMonth": 328,
+    "timeMonth": 335,
     "timeYear": 551,
     "dailyMinutesDown": {}
   },
@@ -266,19 +266,20 @@
     "url": "https://CalDB.de/v1/themes",
     "icon": "https://avatars.githubusercontent.com/u/16343502",
     "slug": "views-service-write",
-    "status": "degraded",
+    "status": "down",
     "uptime": "8.12%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 489,
-    "timeDay": 559,
+    "timeDay": 528,
     "timeWeek": 405,
-    "timeMonth": 758,
-    "timeYear": 527,
+    "timeMonth": 761,
+    "timeYear": 528,
     "dailyMinutesDown": {
-      "2026-06-16": 1353,
+      "2026-06-17": 0,
+      "2026-06-16": 1440,
       "2026-06-15": 1440,
       "2026-06-14": 1440,
       "2026-06-13": 1440,
@@ -641,8 +642,7 @@
       "2025-06-21": 1440,
       "2025-06-20": 1440,
       "2025-06-19": 1440,
-      "2025-06-18": 1440,
-      "2025-06-17": 1440
+      "2025-06-18": 1440
     }
   },
   {
@@ -677,10 +677,11 @@
     "time": 507,
     "timeDay": 344,
     "timeWeek": 1594,
-    "timeMonth": 871,
-    "timeYear": 535,
+    "timeMonth": 876,
+    "timeYear": 536,
     "dailyMinutesDown": {
-      "2026-06-16": 1353,
+      "2026-06-17": 0,
+      "2026-06-16": 1440,
       "2026-06-15": 1440,
       "2026-06-14": 1440,
       "2026-06-13": 1440,
@@ -1043,8 +1044,7 @@
       "2025-06-21": 1440,
       "2025-06-20": 1440,
       "2025-06-19": 1440,
-      "2025-06-18": 1440,
-      "2025-06-17": 1440
+      "2025-06-18": 1440
     }
   },
   {
@@ -1079,10 +1079,11 @@
     "time": 480,
     "timeDay": 418,
     "timeWeek": 509,
-    "timeMonth": 1009,
-    "timeYear": 519,
+    "timeMonth": 1016,
+    "timeYear": 520,
     "dailyMinutesDown": {
-      "2026-06-16": 1353,
+      "2026-06-17": 0,
+      "2026-06-16": 1440,
       "2026-06-15": 1440,
       "2026-06-14": 1440,
       "2026-06-13": 1440,
@@ -1445,8 +1446,7 @@
       "2025-06-21": 1440,
       "2025-06-20": 1440,
       "2025-06-19": 1440,
-      "2025-06-18": 1440,
-      "2025-06-17": 1440
+      "2025-06-18": 1440
     }
   },
   {
@@ -1482,7 +1482,7 @@
     "timeDay": 831,
     "timeWeek": 508,
     "timeMonth": 513,
-    "timeYear": 595,
+    "timeYear": 594,
     "dailyMinutesDown": {
       "2025-07-07": 6,
       "2025-07-28": 21,
@@ -1509,7 +1509,7 @@
     "timeDay": 237,
     "timeWeek": 137,
     "timeMonth": 134,
-    "timeYear": 1152,
+    "timeYear": 1153,
     "dailyMinutesDown": {
       "2025-10-29": 82,
       "2025-10-30": 8,
@@ -1643,7 +1643,7 @@
     "timeDay": 342,
     "timeWeek": 450,
     "timeMonth": 354,
-    "timeYear": 339,
+    "timeYear": 338,
     "dailyMinutesDown": {
       "2025-07-17": 19,
       "2025-10-03": 8,
