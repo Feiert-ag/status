@@ -14,7 +14,7 @@
     "timeDay": 76,
     "timeWeek": 156,
     "timeMonth": 137,
-    "timeYear": 346,
+    "timeYear": 345,
     "dailyMinutesDown": {
       "2025-09-22": 18,
       "2025-10-02": 6,
@@ -71,7 +71,7 @@
     "timeDay": 57,
     "timeWeek": 92,
     "timeMonth": 76,
-    "timeYear": 150,
+    "timeYear": 151,
     "dailyMinutesDown": {
       "2025-07-15": 12,
       "2025-08-27": 19,
@@ -96,7 +96,7 @@
     "timeDay": 340,
     "timeWeek": 423,
     "timeMonth": 346,
-    "timeYear": 549,
+    "timeYear": 550,
     "dailyMinutesDown": {}
   },
   {
@@ -204,7 +204,7 @@
     "timeDay": 302,
     "timeWeek": 379,
     "timeMonth": 339,
-    "timeYear": 215,
+    "timeYear": 216,
     "dailyMinutesDown": {}
   },
   {
@@ -222,7 +222,7 @@
     "timeDay": 304,
     "timeWeek": 333,
     "timeMonth": 290,
-    "timeYear": 161,
+    "timeYear": 162,
     "dailyMinutesDown": {}
   },
   {
@@ -278,7 +278,7 @@
     "timeMonth": 795,
     "timeYear": 527,
     "dailyMinutesDown": {
-      "2026-06-22": 1343,
+      "2026-06-22": 1430,
       "2026-06-21": 1440,
       "2026-06-20": 1440,
       "2026-06-19": 1440,
@@ -668,19 +668,19 @@
     "url": "https://CalDB.de/v1/themes",
     "icon": "https://avatars.githubusercontent.com/u/16343502",
     "slug": "calendars-service-write",
-    "status": "degraded",
+    "status": "down",
     "uptime": "5.69%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 503,
-    "timeDay": 374,
-    "timeWeek": 391,
-    "timeMonth": 884,
+    "timeDay": 326,
+    "timeWeek": 380,
+    "timeMonth": 877,
     "timeYear": 535,
     "dailyMinutesDown": {
-      "2026-06-22": 1343,
+      "2026-06-22": 1430,
       "2026-06-21": 1440,
       "2026-06-20": 1440,
       "2026-06-19": 1440,
@@ -1070,19 +1070,19 @@
     "url": "https://CalDB.de/v1/themes",
     "icon": "https://avatars.githubusercontent.com/u/16343502",
     "slug": "events-service-write",
-    "status": "degraded",
+    "status": "down",
     "uptime": "1.24%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 476,
-    "timeDay": 380,
+    "timeDay": 381,
     "timeWeek": 388,
-    "timeMonth": 1006,
+    "timeMonth": 1000,
     "timeYear": 518,
     "dailyMinutesDown": {
-      "2026-06-22": 1344,
+      "2026-06-22": 1430,
       "2026-06-21": 1440,
       "2026-06-20": 1440,
       "2026-06-19": 1440,
@@ -1464,7 +1464,7 @@
     "timeDay": 306,
     "timeWeek": 329,
     "timeMonth": 331,
-    "timeYear": 163,
+    "timeYear": 164,
     "dailyMinutesDown": {}
   },
   {
@@ -1482,7 +1482,7 @@
     "timeDay": 382,
     "timeWeek": 582,
     "timeMonth": 501,
-    "timeYear": 597,
+    "timeYear": 598,
     "dailyMinutesDown": {
       "2025-07-07": 6,
       "2025-07-28": 21,
@@ -1509,7 +1509,7 @@
     "timeDay": 79,
     "timeWeek": 149,
     "timeMonth": 129,
-    "timeYear": 1154,
+    "timeYear": 1156,
     "dailyMinutesDown": {
       "2025-10-29": 82,
       "2025-10-30": 8,
@@ -1643,7 +1643,7 @@
     "timeDay": 262,
     "timeWeek": 400,
     "timeMonth": 355,
-    "timeYear": 341,
+    "timeYear": 342,
     "dailyMinutesDown": {
       "2025-07-17": 19,
       "2025-10-03": 8,
