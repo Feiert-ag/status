@@ -1,7 +1,7 @@
 url: https://amazon.com
-status: degraded
+status: up
 code: 200
-responseTime: 1596
-lastUpdated: 2026-06-26T19:22:25.957Z
+responseTime: 397
+lastUpdated: 2026-06-26T23:38:11.828Z
 startTime: 2025-05-03T07:14:14.792Z
 generator: Upptime <https://github.com/upptime/upptime>
