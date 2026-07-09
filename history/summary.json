@@ -14,7 +14,7 @@
     "timeDay": 180,
     "timeWeek": 157,
     "timeMonth": 167,
-    "timeYear": 343,
+    "timeYear": 344,
     "dailyMinutesDown": {
       "2025-09-22": 18,
       "2025-10-02": 6,
@@ -266,19 +266,20 @@
     "url": "https://CalDB.de/v1/themes",
     "icon": "https://avatars.githubusercontent.com/u/16343502",
     "slug": "views-service-write",
-    "status": "degraded",
-    "uptime": "7.71%",
+    "status": "down",
+    "uptime": "7.70%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 553,
-    "timeDay": 418,
-    "timeWeek": 2097,
-    "timeMonth": 852,
+    "timeDay": 350,
+    "timeWeek": 2043,
+    "timeMonth": 849,
     "timeYear": 611,
     "dailyMinutesDown": {
-      "2026-07-08": 1378,
+      "2026-07-09": 1,
+      "2026-07-08": 1440,
       "2026-07-07": 1440,
       "2026-07-06": 1440,
       "2026-07-05": 1440,
@@ -641,8 +642,7 @@
       "2025-07-13": 1440,
       "2025-07-12": 1440,
       "2025-07-11": 1440,
-      "2025-07-10": 1440,
-      "2025-07-09": 1440
+      "2025-07-10": 1440
     }
   },
   {
@@ -668,19 +668,20 @@
     "url": "https://CalDB.de/v1/themes",
     "icon": "https://avatars.githubusercontent.com/u/16343502",
     "slug": "calendars-service-write",
-    "status": "degraded",
+    "status": "down",
     "uptime": "5.48%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 492,
-    "timeDay": 433,
-    "timeWeek": 373,
-    "timeMonth": 661,
+    "timeDay": 386,
+    "timeWeek": 363,
+    "timeMonth": 657,
     "timeYear": 530,
     "dailyMinutesDown": {
-      "2026-07-08": 1378,
+      "2026-07-09": 1,
+      "2026-07-08": 1440,
       "2026-07-07": 1440,
       "2026-07-06": 1440,
       "2026-07-05": 1440,
@@ -1043,8 +1044,7 @@
       "2025-07-13": 1440,
       "2025-07-12": 1440,
       "2025-07-11": 1440,
-      "2025-07-10": 1440,
-      "2025-07-09": 1440
+      "2025-07-10": 1440
     }
   },
   {
@@ -1079,10 +1079,11 @@
     "time": 469,
     "timeDay": 446,
     "timeWeek": 406,
-    "timeMonth": 429,
-    "timeYear": 515,
+    "timeMonth": 428,
+    "timeYear": 516,
     "dailyMinutesDown": {
-      "2026-07-08": 1378,
+      "2026-07-09": 1,
+      "2026-07-08": 1440,
       "2026-07-07": 1440,
       "2026-07-06": 1440,
       "2026-07-05": 1440,
@@ -1445,8 +1446,7 @@
       "2025-07-13": 1440,
       "2025-07-12": 1440,
       "2025-07-11": 1440,
-      "2025-07-10": 1440,
-      "2025-07-09": 1440
+      "2025-07-10": 1440
     }
   },
   {
@@ -1508,7 +1508,7 @@
     "timeDay": 78,
     "timeWeek": 112,
     "timeMonth": 156,
-    "timeYear": 1154,
+    "timeYear": 1156,
     "dailyMinutesDown": {
       "2025-10-30": 8,
       "2025-11-01": 37,
