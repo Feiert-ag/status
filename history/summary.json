@@ -13,7 +13,7 @@
     "time": 326,
     "timeDay": 331,
     "timeWeek": 246,
-    "timeMonth": 203,
+    "timeMonth": 204,
     "timeYear": 343,
     "dailyMinutesDown": {
       "2025-09-22": 18,
@@ -37,7 +37,7 @@
     "time": 322,
     "timeDay": 358,
     "timeWeek": 268,
-    "timeMonth": 220,
+    "timeMonth": 218,
     "timeYear": 346,
     "dailyMinutesDown": {
       "2025-08-20": 15,
@@ -70,7 +70,7 @@
     "time": 134,
     "timeDay": 91,
     "timeWeek": 71,
-    "timeMonth": 84,
+    "timeMonth": 83,
     "timeYear": 150,
     "dailyMinutesDown": {
       "2025-08-27": 19,
@@ -94,7 +94,7 @@
     "time": 539,
     "timeDay": 594,
     "timeWeek": 477,
-    "timeMonth": 389,
+    "timeMonth": 387,
     "timeYear": 536,
     "dailyMinutesDown": {}
   },
@@ -184,7 +184,7 @@
     "time": 232,
     "timeDay": 518,
     "timeWeek": 505,
-    "timeMonth": 1031,
+    "timeMonth": 1049,
     "timeYear": 256,
     "dailyMinutesDown": {}
   },
@@ -202,7 +202,7 @@
     "time": 213,
     "timeDay": 563,
     "timeWeek": 443,
-    "timeMonth": 389,
+    "timeMonth": 388,
     "timeYear": 233,
     "dailyMinutesDown": {}
   },
@@ -220,7 +220,7 @@
     "time": 168,
     "timeDay": 534,
     "timeWeek": 387,
-    "timeMonth": 360,
+    "timeMonth": 357,
     "timeYear": 177,
     "dailyMinutesDown": {}
   },
@@ -238,7 +238,7 @@
     "time": 167,
     "timeDay": 205,
     "timeWeek": 369,
-    "timeMonth": 367,
+    "timeMonth": 365,
     "timeYear": 176,
     "dailyMinutesDown": {}
   },
@@ -256,7 +256,7 @@
     "time": 170,
     "timeDay": 206,
     "timeWeek": 373,
-    "timeMonth": 344,
+    "timeMonth": 340,
     "timeYear": 179,
     "dailyMinutesDown": {}
   },
@@ -274,10 +274,10 @@
     "time": 541,
     "timeDay": 410,
     "timeWeek": 399,
-    "timeMonth": 753,
+    "timeMonth": 755,
     "timeYear": 599,
     "dailyMinutesDown": {
-      "2026-07-18": 12,
+      "2026-07-18": 128,
       "2026-07-17": 1440,
       "2026-07-16": 1440,
       "2026-07-15": 1440,
@@ -658,7 +658,7 @@
     "time": 257,
     "timeDay": 538,
     "timeWeek": 410,
-    "timeMonth": 998,
+    "timeMonth": 1025,
     "timeYear": 287,
     "dailyMinutesDown": {}
   },
@@ -668,18 +668,18 @@
     "icon": "https://avatars.githubusercontent.com/u/16343502",
     "slug": "calendars-service-write",
     "status": "down",
-    "uptime": "5.37%",
+    "uptime": "5.36%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 483,
-    "timeDay": 363,
+    "timeDay": 370,
     "timeWeek": 392,
     "timeMonth": 395,
     "timeYear": 522,
     "dailyMinutesDown": {
-      "2026-07-18": 12,
+      "2026-07-18": 128,
       "2026-07-17": 1440,
       "2026-07-16": 1440,
       "2026-07-15": 1440,
@@ -1060,7 +1060,7 @@
     "time": 176,
     "timeDay": 532,
     "timeWeek": 461,
-    "timeMonth": 406,
+    "timeMonth": 404,
     "timeYear": 187,
     "dailyMinutesDown": {}
   },
@@ -1076,12 +1076,12 @@
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 464,
-    "timeDay": 392,
+    "timeDay": 400,
     "timeWeek": 414,
     "timeMonth": 408,
     "timeYear": 491,
     "dailyMinutesDown": {
-      "2026-07-18": 12,
+      "2026-07-18": 128,
       "2026-07-17": 1440,
       "2026-07-16": 1440,
       "2026-07-15": 1440,
@@ -1462,7 +1462,7 @@
     "time": 170,
     "timeDay": 1059,
     "timeWeek": 454,
-    "timeMonth": 360,
+    "timeMonth": 356,
     "timeYear": 179,
     "dailyMinutesDown": {}
   },
@@ -1480,7 +1480,7 @@
     "time": 569,
     "timeDay": 452,
     "timeWeek": 558,
-    "timeMonth": 559,
+    "timeMonth": 554,
     "timeYear": 606,
     "dailyMinutesDown": {
       "2025-07-28": 21,
@@ -1506,7 +1506,7 @@
     "time": 1030,
     "timeDay": 122,
     "timeWeek": 136,
-    "timeMonth": 154,
+    "timeMonth": 153,
     "timeYear": 1154,
     "dailyMinutesDown": {
       "2025-10-30": 8,
@@ -1584,7 +1584,7 @@
     "time": 1239,
     "timeDay": 429,
     "timeWeek": 440,
-    "timeMonth": 626,
+    "timeMonth": 631,
     "timeYear": 1260,
     "dailyMinutesDown": {
       "2025-10-13": 18,
@@ -1641,7 +1641,7 @@
     "time": 357,
     "timeDay": 494,
     "timeWeek": 660,
-    "timeMonth": 664,
+    "timeMonth": 670,
     "timeYear": 374,
     "dailyMinutesDown": {
       "2025-10-03": 8,
