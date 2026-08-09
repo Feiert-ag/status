@@ -12,7 +12,7 @@
     "uptimeYear": "99.96%",
     "time": 321,
     "timeDay": 170,
-    "timeWeek": 188,
+    "timeWeek": 190,
     "timeMonth": 223,
     "timeYear": 345,
     "dailyMinutesDown": {
@@ -36,7 +36,7 @@
     "uptimeYear": "99.89%",
     "time": 323,
     "timeDay": 443,
-    "timeWeek": 289,
+    "timeWeek": 307,
     "timeMonth": 265,
     "timeYear": 348,
     "dailyMinutesDown": {
@@ -70,7 +70,7 @@
     "uptimeYear": "99.93%",
     "time": 134,
     "timeDay": 298,
-    "timeWeek": 178,
+    "timeWeek": 189,
     "timeMonth": 115,
     "timeYear": 154,
     "dailyMinutesDown": {
@@ -95,7 +95,7 @@
     "uptimeYear": "100.00%",
     "time": 529,
     "timeDay": 124,
-    "timeWeek": 353,
+    "timeWeek": 354,
     "timeMonth": 364,
     "timeYear": 524,
     "dailyMinutesDown": {}
@@ -185,7 +185,7 @@
     "uptimeYear": "100.00%",
     "time": 239,
     "timeDay": 308,
-    "timeWeek": 343,
+    "timeWeek": 344,
     "timeMonth": 1020,
     "timeYear": 271,
     "dailyMinutesDown": {}
@@ -203,7 +203,7 @@
     "uptimeYear": "100.00%",
     "time": 218,
     "timeDay": 316,
-    "timeWeek": 286,
+    "timeWeek": 279,
     "timeMonth": 354,
     "timeYear": 244,
     "dailyMinutesDown": {}
@@ -221,7 +221,7 @@
     "uptimeYear": "100.00%",
     "time": 175,
     "timeDay": 132,
-    "timeWeek": 292,
+    "timeWeek": 315,
     "timeMonth": 328,
     "timeYear": 188,
     "dailyMinutesDown": {}
@@ -239,7 +239,7 @@
     "uptimeYear": "100.00%",
     "time": 174,
     "timeDay": 315,
-    "timeWeek": 260,
+    "timeWeek": 280,
     "timeMonth": 323,
     "timeYear": 187,
     "dailyMinutesDown": {}
@@ -257,7 +257,7 @@
     "uptimeYear": "100.00%",
     "time": 177,
     "timeDay": 312,
-    "timeWeek": 291,
+    "timeWeek": 285,
     "timeMonth": 337,
     "timeYear": 191,
     "dailyMinutesDown": {}
@@ -267,19 +267,20 @@
     "url": "https://CalDB.de/v1/themes",
     "icon": "https://avatars.githubusercontent.com/u/16343502",
     "slug": "views-service-write",
-    "status": "degraded",
+    "status": "down",
     "uptime": "7.19%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 524,
-    "timeDay": 416,
-    "timeWeek": 410,
+    "timeDay": 399,
+    "timeWeek": 407,
     "timeMonth": 427,
-    "timeYear": 583,
+    "timeYear": 582,
     "dailyMinutesDown": {
-      "2026-08-08": 1424,
+      "2026-08-09": 5,
+      "2026-08-08": 1440,
       "2026-08-07": 1440,
       "2026-08-06": 1440,
       "2026-08-05": 1440,
@@ -642,8 +643,7 @@
       "2025-08-13": 1440,
       "2025-08-12": 1440,
       "2025-08-11": 1440,
-      "2025-08-10": 1440,
-      "2025-08-09": 1440
+      "2025-08-10": 1440
     }
   },
   {
@@ -678,10 +678,11 @@
     "time": 473,
     "timeDay": 453,
     "timeWeek": 420,
-    "timeMonth": 409,
+    "timeMonth": 410,
     "timeYear": 515,
     "dailyMinutesDown": {
-      "2026-08-08": 1424,
+      "2026-08-09": 5,
+      "2026-08-08": 1440,
       "2026-08-07": 1440,
       "2026-08-06": 1440,
       "2026-08-05": 1440,
@@ -1044,8 +1045,7 @@
       "2025-08-13": 1440,
       "2025-08-12": 1440,
       "2025-08-11": 1440,
-      "2025-08-10": 1440,
-      "2025-08-09": 1440
+      "2025-08-10": 1440
     }
   },
   {
@@ -1071,19 +1071,20 @@
     "url": "https://CalDB.de/v1/themes",
     "icon": "https://avatars.githubusercontent.com/u/16343502",
     "slug": "events-service-write",
-    "status": "degraded",
+    "status": "down",
     "uptime": "1.11%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 456,
-    "timeDay": 466,
-    "timeWeek": 427,
-    "timeMonth": 412,
+    "timeDay": 447,
+    "timeWeek": 422,
+    "timeMonth": 411,
     "timeYear": 488,
     "dailyMinutesDown": {
-      "2026-08-08": 1424,
+      "2026-08-09": 5,
+      "2026-08-08": 1440,
       "2026-08-07": 1440,
       "2026-08-06": 1440,
       "2026-08-05": 1440,
@@ -1446,8 +1447,7 @@
       "2025-08-13": 1440,
       "2025-08-12": 1440,
       "2025-08-11": 1440,
-      "2025-08-10": 1440,
-      "2025-08-09": 1440
+      "2025-08-10": 1440
     }
   },
   {
