@@ -12,7 +12,7 @@
     "uptimeYear": "99.96%",
     "time": 318,
     "timeDay": 192,
-    "timeWeek": 179,
+    "timeWeek": 174,
     "timeMonth": 203,
     "timeYear": 344,
     "dailyMinutesDown": {
@@ -36,7 +36,7 @@
     "uptimeYear": "99.89%",
     "time": 324,
     "timeDay": 358,
-    "timeWeek": 222,
+    "timeWeek": 223,
     "timeMonth": 254,
     "timeYear": 348,
     "dailyMinutesDown": {
@@ -70,7 +70,7 @@
     "uptimeYear": "99.93%",
     "time": 134,
     "timeDay": 223,
-    "timeWeek": 100,
+    "timeWeek": 105,
     "timeMonth": 121,
     "timeYear": 155,
     "dailyMinutesDown": {
@@ -95,7 +95,7 @@
     "uptimeYear": "100.00%",
     "time": 526,
     "timeDay": 202,
-    "timeWeek": 369,
+    "timeWeek": 366,
     "timeMonth": 347,
     "timeYear": 518,
     "dailyMinutesDown": {}
@@ -185,7 +185,7 @@
     "uptimeYear": "100.00%",
     "time": 242,
     "timeDay": 534,
-    "timeWeek": 395,
+    "timeWeek": 400,
     "timeMonth": 388,
     "timeYear": 277,
     "dailyMinutesDown": {}
@@ -203,7 +203,7 @@
     "uptimeYear": "100.00%",
     "time": 221,
     "timeDay": 524,
-    "timeWeek": 387,
+    "timeWeek": 389,
     "timeMonth": 330,
     "timeYear": 249,
     "dailyMinutesDown": {}
@@ -221,7 +221,7 @@
     "uptimeYear": "100.00%",
     "time": 178,
     "timeDay": 521,
-    "timeWeek": 340,
+    "timeWeek": 369,
     "timeMonth": 322,
     "timeYear": 193,
     "dailyMinutesDown": {}
@@ -239,7 +239,7 @@
     "uptimeYear": "100.00%",
     "time": 176,
     "timeDay": 542,
-    "timeWeek": 308,
+    "timeWeek": 331,
     "timeMonth": 302,
     "timeYear": 191,
     "dailyMinutesDown": {}
@@ -257,7 +257,7 @@
     "uptimeYear": "100.00%",
     "time": 180,
     "timeDay": 595,
-    "timeWeek": 367,
+    "timeWeek": 362,
     "timeMonth": 328,
     "timeYear": 196,
     "dailyMinutesDown": {}
@@ -274,12 +274,12 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 578,
-    "timeDay": 1542,
-    "timeWeek": 721,
+    "timeDay": 1605,
+    "timeWeek": 725,
     "timeMonth": 684,
     "timeYear": 642,
     "dailyMinutesDown": {
-      "2026-08-17": 1418,
+      "2026-08-17": 1436,
       "2026-08-16": 1440,
       "2026-08-15": 1440,
       "2026-08-14": 1440,
@@ -669,19 +669,19 @@
     "url": "https://CalDB.de/v1/themes",
     "icon": "https://avatars.githubusercontent.com/u/16343502",
     "slug": "calendars-service-write",
-    "status": "down",
+    "status": "degraded",
     "uptime": "5.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 545,
-    "timeDay": 1803,
-    "timeWeek": 611,
+    "timeDay": 1718,
+    "timeWeek": 614,
     "timeMonth": 704,
     "timeYear": 594,
     "dailyMinutesDown": {
-      "2026-08-17": 1418,
+      "2026-08-17": 1436,
       "2026-08-16": 1440,
       "2026-08-15": 1440,
       "2026-08-14": 1440,
@@ -1061,7 +1061,7 @@
     "uptimeYear": "100.00%",
     "time": 184,
     "timeDay": 234,
-    "timeWeek": 228,
+    "timeWeek": 210,
     "timeMonth": 304,
     "timeYear": 201,
     "dailyMinutesDown": {}
@@ -1078,12 +1078,12 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 469,
-    "timeDay": 431,
+    "timeDay": 422,
     "timeWeek": 405,
     "timeMonth": 483,
     "timeYear": 502,
     "dailyMinutesDown": {
-      "2026-08-17": 1418,
+      "2026-08-17": 1436,
       "2026-08-16": 1440,
       "2026-08-15": 1440,
       "2026-08-14": 1440,
@@ -1463,7 +1463,7 @@
     "uptimeYear": "100.00%",
     "time": 181,
     "timeDay": 605,
-    "timeWeek": 360,
+    "timeWeek": 361,
     "timeMonth": 354,
     "timeYear": 196,
     "dailyMinutesDown": {}
@@ -1481,7 +1481,7 @@
     "uptimeYear": "99.92%",
     "time": 569,
     "timeDay": 818,
-    "timeWeek": 669,
+    "timeWeek": 680,
     "timeMonth": 558,
     "timeYear": 607,
     "dailyMinutesDown": {
@@ -1505,7 +1505,7 @@
     "uptimeYear": "99.52%",
     "time": 993,
     "timeDay": 165,
-    "timeWeek": 126,
+    "timeWeek": 128,
     "timeMonth": 140,
     "timeYear": 1153,
     "dailyMinutesDown": {
@@ -1577,13 +1577,13 @@
     "slug": "reference-cloudflare-com",
     "status": "degraded",
     "uptime": "99.42%",
-    "uptimeDay": "82.59%",
-    "uptimeWeek": "95.67%",
-    "uptimeMonth": "97.90%",
+    "uptimeDay": "81.34%",
+    "uptimeWeek": "95.49%",
+    "uptimeMonth": "97.86%",
     "uptimeYear": "99.25%",
     "time": 1234,
     "timeDay": 1841,
-    "timeWeek": 1269,
+    "timeWeek": 1289,
     "timeMonth": 985,
     "timeYear": 1263,
     "dailyMinutesDown": {
@@ -1624,7 +1624,7 @@
       "2026-08-08": 58,
       "2026-08-15": 143,
       "2026-08-16": 43,
-      "2026-08-17": 251
+      "2026-08-17": 269
     }
   },
   {
@@ -1640,7 +1640,7 @@
     "uptimeYear": "99.83%",
     "time": 357,
     "timeDay": 632,
-    "timeWeek": 474,
+    "timeWeek": 525,
     "timeMonth": 358,
     "timeYear": 381,
     "dailyMinutesDown": {
