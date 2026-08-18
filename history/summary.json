@@ -13,7 +13,7 @@
     "time": 318,
     "timeDay": 192,
     "timeWeek": 174,
-    "timeMonth": 203,
+    "timeMonth": 199,
     "timeYear": 344,
     "dailyMinutesDown": {
       "2025-09-22": 18,
@@ -37,7 +37,7 @@
     "time": 324,
     "timeDay": 358,
     "timeWeek": 223,
-    "timeMonth": 254,
+    "timeMonth": 251,
     "timeYear": 348,
     "dailyMinutesDown": {
       "2025-08-20": 15,
@@ -96,7 +96,7 @@
     "time": 526,
     "timeDay": 202,
     "timeWeek": 366,
-    "timeMonth": 347,
+    "timeMonth": 339,
     "timeYear": 518,
     "dailyMinutesDown": {}
   },
@@ -186,7 +186,7 @@
     "time": 242,
     "timeDay": 534,
     "timeWeek": 400,
-    "timeMonth": 388,
+    "timeMonth": 384,
     "timeYear": 277,
     "dailyMinutesDown": {}
   },
@@ -204,7 +204,7 @@
     "time": 221,
     "timeDay": 524,
     "timeWeek": 389,
-    "timeMonth": 330,
+    "timeMonth": 323,
     "timeYear": 249,
     "dailyMinutesDown": {}
   },
@@ -222,7 +222,7 @@
     "time": 178,
     "timeDay": 521,
     "timeWeek": 369,
-    "timeMonth": 322,
+    "timeMonth": 315,
     "timeYear": 193,
     "dailyMinutesDown": {}
   },
@@ -240,7 +240,7 @@
     "time": 176,
     "timeDay": 542,
     "timeWeek": 331,
-    "timeMonth": 302,
+    "timeMonth": 305,
     "timeYear": 191,
     "dailyMinutesDown": {}
   },
@@ -258,7 +258,7 @@
     "time": 180,
     "timeDay": 595,
     "timeWeek": 362,
-    "timeMonth": 328,
+    "timeMonth": 332,
     "timeYear": 196,
     "dailyMinutesDown": {}
   },
@@ -267,19 +267,20 @@
     "url": "https://CalDB.de/v1/themes",
     "icon": "https://avatars.githubusercontent.com/u/16343502",
     "slug": "views-service-write",
-    "status": "degraded",
+    "status": "down",
     "uptime": "7.05%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 578,
-    "timeDay": 1605,
-    "timeWeek": 725,
-    "timeMonth": 684,
+    "timeDay": 1612,
+    "timeWeek": 723,
+    "timeMonth": 685,
     "timeYear": 642,
     "dailyMinutesDown": {
-      "2026-08-17": 1436,
+      "2026-08-18": 28,
+      "2026-08-17": 1440,
       "2026-08-16": 1440,
       "2026-08-15": 1440,
       "2026-08-14": 1440,
@@ -642,8 +643,7 @@
       "2025-08-22": 1440,
       "2025-08-21": 1440,
       "2025-08-20": 1440,
-      "2025-08-19": 1440,
-      "2025-08-18": 1440
+      "2025-08-19": 1440
     }
   },
   {
@@ -660,7 +660,7 @@
     "time": 261,
     "timeDay": 574,
     "timeWeek": 370,
-    "timeMonth": 328,
+    "timeMonth": 321,
     "timeYear": 303,
     "dailyMinutesDown": {}
   },
@@ -669,19 +669,20 @@
     "url": "https://CalDB.de/v1/themes",
     "icon": "https://avatars.githubusercontent.com/u/16343502",
     "slug": "calendars-service-write",
-    "status": "degraded",
+    "status": "down",
     "uptime": "5.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 545,
-    "timeDay": 1718,
-    "timeWeek": 614,
+    "timeDay": 1632,
+    "timeWeek": 612,
     "timeMonth": 704,
     "timeYear": 594,
     "dailyMinutesDown": {
-      "2026-08-17": 1436,
+      "2026-08-18": 28,
+      "2026-08-17": 1440,
       "2026-08-16": 1440,
       "2026-08-15": 1440,
       "2026-08-14": 1440,
@@ -1044,8 +1045,7 @@
       "2025-08-22": 1440,
       "2025-08-21": 1440,
       "2025-08-20": 1440,
-      "2025-08-19": 1440,
-      "2025-08-18": 1440
+      "2025-08-19": 1440
     }
   },
   {
@@ -1062,7 +1062,7 @@
     "time": 184,
     "timeDay": 234,
     "timeWeek": 210,
-    "timeMonth": 304,
+    "timeMonth": 296,
     "timeYear": 201,
     "dailyMinutesDown": {}
   },
@@ -1071,19 +1071,20 @@
     "url": "https://CalDB.de/v1/themes",
     "icon": "https://avatars.githubusercontent.com/u/16343502",
     "slug": "events-service-write",
-    "status": "degraded",
+    "status": "down",
     "uptime": "1.09%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 469,
-    "timeDay": 422,
-    "timeWeek": 405,
+    "timeDay": 413,
+    "timeWeek": 403,
     "timeMonth": 483,
     "timeYear": 502,
     "dailyMinutesDown": {
-      "2026-08-17": 1436,
+      "2026-08-18": 28,
+      "2026-08-17": 1440,
       "2026-08-16": 1440,
       "2026-08-15": 1440,
       "2026-08-14": 1440,
@@ -1446,8 +1447,7 @@
       "2025-08-22": 1440,
       "2025-08-21": 1440,
       "2025-08-20": 1440,
-      "2025-08-19": 1440,
-      "2025-08-18": 1440
+      "2025-08-19": 1440
     }
   },
   {
@@ -1464,7 +1464,7 @@
     "time": 181,
     "timeDay": 605,
     "timeWeek": 361,
-    "timeMonth": 354,
+    "timeMonth": 331,
     "timeYear": 196,
     "dailyMinutesDown": {}
   },
@@ -1482,7 +1482,7 @@
     "time": 569,
     "timeDay": 818,
     "timeWeek": 680,
-    "timeMonth": 558,
+    "timeMonth": 561,
     "timeYear": 607,
     "dailyMinutesDown": {
       "2025-12-22": 25,
@@ -1506,7 +1506,7 @@
     "time": 993,
     "timeDay": 165,
     "timeWeek": 128,
-    "timeMonth": 140,
+    "timeMonth": 141,
     "timeYear": 1153,
     "dailyMinutesDown": {
       "2025-10-30": 8,
@@ -1575,17 +1575,17 @@
     "url": "https://cloudflare.com",
     "icon": "https://cloudflare.com/favicon.ico",
     "slug": "reference-cloudflare-com",
-    "status": "degraded",
-    "uptime": "99.42%",
-    "uptimeDay": "81.34%",
-    "uptimeWeek": "95.49%",
-    "uptimeMonth": "97.86%",
-    "uptimeYear": "99.25%",
+    "status": "up",
+    "uptime": "99.41%",
+    "uptimeDay": "79.19%",
+    "uptimeWeek": "95.19%",
+    "uptimeMonth": "97.79%",
+    "uptimeYear": "99.24%",
     "time": 1234,
-    "timeDay": 1841,
-    "timeWeek": 1289,
-    "timeMonth": 985,
-    "timeYear": 1263,
+    "timeDay": 1749,
+    "timeWeek": 1263,
+    "timeMonth": 984,
+    "timeYear": 1262,
     "dailyMinutesDown": {
       "2025-11-13": 72,
       "2025-11-14": 143,
@@ -1624,7 +1624,8 @@
       "2026-08-08": 58,
       "2026-08-15": 143,
       "2026-08-16": 43,
-      "2026-08-17": 269
+      "2026-08-17": 273,
+      "2026-08-18": 27
     }
   },
   {
@@ -1641,7 +1642,7 @@
     "time": 357,
     "timeDay": 632,
     "timeWeek": 525,
-    "timeMonth": 358,
+    "timeMonth": 354,
     "timeYear": 381,
     "dailyMinutesDown": {
       "2025-10-03": 8,
