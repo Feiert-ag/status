@@ -268,19 +268,20 @@
     "url": "https://CalDB.de/v1/themes",
     "icon": "https://avatars.githubusercontent.com/u/16343502",
     "slug": "views-service-write",
-    "status": "down",
+    "status": "degraded",
     "uptime": "6.95%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 560,
-    "timeDay": 412,
-    "timeWeek": 427,
+    "timeDay": 444,
+    "timeWeek": 428,
     "timeMonth": 606,
     "timeYear": 617,
     "dailyMinutesDown": {
-      "2026-08-24": 1424,
+      "2026-08-25": 1,
+      "2026-08-24": 1440,
       "2026-08-23": 1440,
       "2026-08-22": 1440,
       "2026-08-21": 1440,
@@ -643,8 +644,7 @@
       "2025-08-29": 1440,
       "2025-08-28": 1440,
       "2025-08-27": 1440,
-      "2025-08-26": 1440,
-      "2025-08-25": 1440
+      "2025-08-26": 1440
     }
   },
   {
@@ -678,11 +678,12 @@
     "uptimeYear": "0.00%",
     "time": 606,
     "timeDay": 392,
-    "timeWeek": 1020,
+    "timeWeek": 1024,
     "timeMonth": 841,
     "timeYear": 652,
     "dailyMinutesDown": {
-      "2026-08-24": 1425,
+      "2026-08-25": 1,
+      "2026-08-24": 1440,
       "2026-08-23": 1440,
       "2026-08-22": 1440,
       "2026-08-21": 1440,
@@ -1045,8 +1046,7 @@
       "2025-08-29": 1440,
       "2025-08-28": 1440,
       "2025-08-27": 1440,
-      "2025-08-26": 1440,
-      "2025-08-25": 1440
+      "2025-08-26": 1440
     }
   },
   {
@@ -1072,19 +1072,20 @@
     "url": "https://CalDB.de/v1/themes",
     "icon": "https://avatars.githubusercontent.com/u/16343502",
     "slug": "events-service-write",
-    "status": "down",
+    "status": "degraded",
     "uptime": "1.07%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 481,
-    "timeDay": 401,
+    "timeDay": 409,
     "timeWeek": 574,
     "timeMonth": 526,
     "timeYear": 514,
     "dailyMinutesDown": {
-      "2026-08-24": 1425,
+      "2026-08-25": 1,
+      "2026-08-24": 1440,
       "2026-08-23": 1440,
       "2026-08-22": 1440,
       "2026-08-21": 1440,
@@ -1447,8 +1448,7 @@
       "2025-08-29": 1440,
       "2025-08-28": 1440,
       "2025-08-27": 1440,
-      "2025-08-26": 1440,
-      "2025-08-25": 1440
+      "2025-08-26": 1440
     }
   },
   {
@@ -1579,7 +1579,7 @@
     "status": "up",
     "uptime": "99.38%",
     "uptimeDay": "94.37%",
-    "uptimeWeek": "94.36%",
+    "uptimeWeek": "94.52%",
     "uptimeMonth": "96.90%",
     "uptimeYear": "99.18%",
     "time": 1240,
