@@ -14,7 +14,7 @@
     "timeDay": 234,
     "timeWeek": 218,
     "timeMonth": 185,
-    "timeYear": 344,
+    "timeYear": 345,
     "dailyMinutesDown": {
       "2025-09-22": 18,
       "2025-10-02": 6,
@@ -34,11 +34,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.45%",
     "uptimeYear": "99.87%",
-    "time": 321,
+    "time": 332,
     "timeDay": 341,
     "timeWeek": 295,
     "timeMonth": 351,
-    "timeYear": 342,
+    "timeYear": 343,
     "dailyMinutesDown": {
       "2025-09-22": 18,
       "2025-10-02": 5,
@@ -73,7 +73,7 @@
     "timeDay": 100,
     "timeWeek": 117,
     "timeMonth": 126,
-    "timeYear": 116,
+    "timeYear": 115,
     "dailyMinutesDown": {
       "2025-10-02": 4,
       "2025-10-03": 26,
@@ -274,12 +274,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 553,
-    "timeDay": 461,
+    "timeDay": 375,
     "timeWeek": 421,
     "timeMonth": 610,
-    "timeYear": 610,
+    "timeYear": 611,
     "dailyMinutesDown": {
-      "2026-09-03": 1326,
+      "2026-09-04": 1,
+      "2026-09-03": 1440,
       "2026-09-02": 1440,
       "2026-09-01": 1440,
       "2026-08-31": 1440,
@@ -642,8 +643,7 @@
       "2025-09-08": 1440,
       "2025-09-07": 1440,
       "2025-09-06": 1440,
-      "2025-09-05": 1440,
-      "2025-09-04": 1440
+      "2025-09-05": 1440
     }
   },
   {
@@ -676,12 +676,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 591,
-    "timeDay": 467,
+    "timeDay": 451,
     "timeWeek": 416,
-    "timeMonth": 864,
+    "timeMonth": 865,
     "timeYear": 646,
     "dailyMinutesDown": {
-      "2026-09-03": 1326,
+      "2026-09-04": 1,
+      "2026-09-03": 1440,
       "2026-09-02": 1440,
       "2026-09-01": 1440,
       "2026-08-31": 1440,
@@ -1044,8 +1045,7 @@
       "2025-09-08": 1440,
       "2025-09-07": 1440,
       "2025-09-06": 1440,
-      "2025-09-05": 1440,
-      "2025-09-04": 1440
+      "2025-09-05": 1440
     }
   },
   {
@@ -1071,19 +1071,20 @@
     "url": "https://CalDB.de/v1/themes",
     "icon": "https://avatars.githubusercontent.com/u/16343502",
     "slug": "events-service-write",
-    "status": "down",
+    "status": "degraded",
     "uptime": "1.05%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 495,
-    "timeDay": 410,
-    "timeWeek": 718,
+    "timeDay": 409,
+    "timeWeek": 713,
     "timeMonth": 553,
     "timeYear": 520,
     "dailyMinutesDown": {
-      "2026-09-03": 1327,
+      "2026-09-04": 1,
+      "2026-09-03": 1440,
       "2026-09-02": 1440,
       "2026-09-01": 1440,
       "2026-08-31": 1440,
@@ -1446,8 +1447,7 @@
       "2025-09-08": 1440,
       "2025-09-07": 1440,
       "2025-09-06": 1440,
-      "2025-09-05": 1440,
-      "2025-09-04": 1440
+      "2025-09-05": 1440
     }
   },
   {
@@ -1465,7 +1465,7 @@
     "timeDay": 377,
     "timeWeek": 3189,
     "timeMonth": 984,
-    "timeYear": 260,
+    "timeYear": 261,
     "dailyMinutesDown": {}
   },
   {
@@ -1483,7 +1483,7 @@
     "timeDay": 461,
     "timeWeek": 619,
     "timeMonth": 577,
-    "timeYear": 615,
+    "timeYear": 616,
     "dailyMinutesDown": {
       "2025-12-22": 25,
       "2025-12-24": 8,
@@ -1507,7 +1507,7 @@
     "timeDay": 86,
     "timeWeek": 120,
     "timeMonth": 145,
-    "timeYear": 1156,
+    "timeYear": 1158,
     "dailyMinutesDown": {
       "2025-11-01": 37,
       "2025-11-02": 36,
