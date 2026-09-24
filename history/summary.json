@@ -13,8 +13,8 @@
     "time": 319,
     "timeDay": 216,
     "timeWeek": 217,
-    "timeMonth": 209,
-    "timeYear": 333,
+    "timeMonth": 214,
+    "timeYear": 334,
     "dailyMinutesDown": {
       "2025-10-02": 6,
       "2025-11-18": 134,
@@ -33,11 +33,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.41%",
     "uptimeYear": "99.84%",
-    "time": 320,
+    "time": 333,
     "timeDay": 384,
     "timeWeek": 314,
-    "timeMonth": 291,
-    "timeYear": 329,
+    "timeMonth": 297,
+    "timeYear": 330,
     "dailyMinutesDown": {
       "2025-10-02": 5,
       "2025-10-07": 22,
@@ -71,7 +71,7 @@
     "time": 139,
     "timeDay": 143,
     "timeWeek": 118,
-    "timeMonth": 110,
+    "timeMonth": 111,
     "timeYear": 117,
     "dailyMinutesDown": {
       "2025-10-02": 4,
@@ -95,8 +95,8 @@
     "time": 517,
     "timeDay": 249,
     "timeWeek": 338,
-    "timeMonth": 393,
-    "timeYear": 500,
+    "timeMonth": 396,
+    "timeYear": 499,
     "dailyMinutesDown": {}
   },
   {
@@ -185,7 +185,7 @@
     "time": 257,
     "timeDay": 566,
     "timeWeek": 447,
-    "timeMonth": 408,
+    "timeMonth": 411,
     "timeYear": 303,
     "dailyMinutesDown": {}
   },
@@ -203,8 +203,8 @@
     "time": 235,
     "timeDay": 579,
     "timeWeek": 344,
-    "timeMonth": 394,
-    "timeYear": 272,
+    "timeMonth": 396,
+    "timeYear": 273,
     "dailyMinutesDown": {}
   },
   {
@@ -221,7 +221,7 @@
     "time": 216,
     "timeDay": 584,
     "timeWeek": 389,
-    "timeMonth": 739,
+    "timeMonth": 753,
     "timeYear": 247,
     "dailyMinutesDown": {}
   },
@@ -239,7 +239,7 @@
     "time": 193,
     "timeDay": 618,
     "timeWeek": 338,
-    "timeMonth": 388,
+    "timeMonth": 391,
     "timeYear": 215,
     "dailyMinutesDown": {}
   },
@@ -257,7 +257,7 @@
     "time": 194,
     "timeDay": 247,
     "timeWeek": 258,
-    "timeMonth": 345,
+    "timeMonth": 353,
     "timeYear": 217,
     "dailyMinutesDown": {}
   },
@@ -266,19 +266,20 @@
     "url": "https://CalDB.de/v1/themes",
     "icon": "https://avatars.githubusercontent.com/u/16343502",
     "slug": "views-service-write",
-    "status": "down",
+    "status": "degraded",
     "uptime": "6.54%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 567,
-    "timeDay": 373,
-    "timeWeek": 383,
-    "timeMonth": 535,
+    "timeDay": 448,
+    "timeWeek": 389,
+    "timeMonth": 545,
     "timeYear": 605,
     "dailyMinutesDown": {
-      "2026-09-23": 1112,
+      "2026-09-24": 1,
+      "2026-09-23": 1440,
       "2026-09-22": 1440,
       "2026-09-21": 1440,
       "2026-09-20": 1440,
@@ -641,8 +642,7 @@
       "2025-09-28": 1440,
       "2025-09-27": 1440,
       "2025-09-26": 1440,
-      "2025-09-25": 1440,
-      "2025-09-24": 1440
+      "2025-09-25": 1440
     }
   },
   {
@@ -659,7 +659,7 @@
     "time": 273,
     "timeDay": 253,
     "timeWeek": 239,
-    "timeMonth": 369,
+    "timeMonth": 370,
     "timeYear": 325,
     "dailyMinutesDown": {}
   },
@@ -668,7 +668,7 @@
     "url": "https://CalDB.de/v1/themes",
     "icon": "https://avatars.githubusercontent.com/u/16343502",
     "slug": "calendars-service-write",
-    "status": "down",
+    "status": "degraded",
     "uptime": "4.65%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
@@ -676,11 +676,12 @@
     "uptimeYear": "0.00%",
     "time": 589,
     "timeDay": 409,
-    "timeWeek": 406,
-    "timeMonth": 420,
+    "timeWeek": 410,
+    "timeMonth": 423,
     "timeYear": 623,
     "dailyMinutesDown": {
-      "2026-09-23": 1112,
+      "2026-09-24": 1,
+      "2026-09-23": 1440,
       "2026-09-22": 1440,
       "2026-09-21": 1440,
       "2026-09-20": 1440,
@@ -1043,8 +1044,7 @@
       "2025-09-28": 1440,
       "2025-09-27": 1440,
       "2025-09-26": 1440,
-      "2025-09-25": 1440,
-      "2025-09-24": 1440
+      "2025-09-25": 1440
     }
   },
   {
@@ -1061,7 +1061,7 @@
     "time": 208,
     "timeDay": 277,
     "timeWeek": 356,
-    "timeMonth": 514,
+    "timeMonth": 521,
     "timeYear": 235,
     "dailyMinutesDown": {}
   },
@@ -1078,11 +1078,12 @@
     "uptimeYear": "0.00%",
     "time": 548,
     "timeDay": 383,
-    "timeWeek": 408,
-    "timeMonth": 979,
+    "timeWeek": 403,
+    "timeMonth": 1002,
     "timeYear": 592,
     "dailyMinutesDown": {
-      "2026-09-23": 1112,
+      "2026-09-24": 1,
+      "2026-09-23": 1440,
       "2026-09-22": 1440,
       "2026-09-21": 1440,
       "2026-09-20": 1440,
@@ -1445,8 +1446,7 @@
       "2025-09-28": 1440,
       "2025-09-27": 1440,
       "2025-09-26": 1440,
-      "2025-09-25": 1440,
-      "2025-09-24": 1440
+      "2025-09-25": 1440
     }
   },
   {
@@ -1463,7 +1463,7 @@
     "time": 235,
     "timeDay": 566,
     "timeWeek": 424,
-    "timeMonth": 999,
+    "timeMonth": 1021,
     "timeYear": 272,
     "dailyMinutesDown": {}
   },
@@ -1481,7 +1481,7 @@
     "time": 585,
     "timeDay": 697,
     "timeWeek": 696,
-    "timeMonth": 601,
+    "timeMonth": 609,
     "timeYear": 624,
     "dailyMinutesDown": {
       "2025-12-22": 25,
@@ -1505,8 +1505,8 @@
     "time": 953,
     "timeDay": 310,
     "timeWeek": 158,
-    "timeMonth": 136,
-    "timeYear": 1156,
+    "timeMonth": 138,
+    "timeYear": 1157,
     "dailyMinutesDown": {
       "2025-11-01": 37,
       "2025-11-02": 36,
@@ -1578,13 +1578,13 @@
     "uptime": "99.37%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.04%",
+    "uptimeMonth": "99.09%",
     "uptimeYear": "99.12%",
     "time": 1138,
     "timeDay": 292,
     "timeWeek": 186,
-    "timeMonth": 490,
-    "timeYear": 1063,
+    "timeMonth": 467,
+    "timeYear": 1059,
     "dailyMinutesDown": {
       "2025-11-15": 10,
       "2025-11-16": 17,
@@ -1644,7 +1644,7 @@
     "time": 369,
     "timeDay": 370,
     "timeWeek": 278,
-    "timeMonth": 429,
+    "timeMonth": 428,
     "timeYear": 392,
     "dailyMinutesDown": {
       "2025-10-03": 8,
