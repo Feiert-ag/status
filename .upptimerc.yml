@@ -29,13 +29,11 @@ status-website:
   favicon: https://status.feiert.ag/logo-192.png
   name: Status
   introTitle: "Status of Feiert.ag"
+  # Shown once here instead of as an open issue that Upptime lists twice (incident and maintenance)
+  introMessage: "Feiert.ag is still in development and should not be used in production environments yet. Data is not persisted, and the database is reset regularly."
   navbar:
-    - title: Status
-      href: /
     - title: Feiert.ag
       href: https://Feiert.ag
-    - title: Issues on GitHub
-      href: https://github.com/Feiert-ag/status.feiert.ag/issues
 
 i18n:
   footer: This page is [open source]($REPO), powered by [Upptime](https://upptime.js.org)<br>[Impressum](https://legal.doebeling.de/impressum), [Datenschutzerklärung](https://legal.doebeling.de/datenschutzerklaerung)

@@ -132,7 +132,7 @@ nav .logo {
   font-size: 1.25rem;
 }
 nav .logo img {
-  height: 2rem;
+  height: 2rem !important;
   width: 8.25rem;
   object-fit: contain;
   object-position: -9999px 0;
@@ -142,6 +142,32 @@ nav .logo div {
   padding-left: .75rem;
   border-left: 2px solid var(--nav-border-bottom-color);
   color: var(--text-weich);
+}
+
+/* Narrow screens: logo, page name and the link to Feiert.ag fit in one row.
+   Upptime scopes its nav styles with two classes, so these rules need !important. */
+@media (max-width: 599px) {
+  nav {
+    padding: 0 !important;
+  }
+  nav .container {
+    padding: 0 1rem;
+  }
+  nav .logo {
+    margin-right: .5rem !important;
+  }
+  nav .logo img {
+    width: 6.25rem;
+    height: 1.6rem !important;
+    margin-right: .5rem !important;
+  }
+  nav .logo div {
+    padding-left: .5rem;
+    font-size: 1.05rem;
+  }
+  nav ul a {
+    padding: 1.25rem .5rem !important;
+  }
 }
 
 /* Cards like the event page: rounded, soft shadow, coloured edge for the state */
