@@ -145,6 +145,20 @@ article.degraded {
   padding: .3rem .65rem;
 }
 
+/* Comments from GitHub on incident pages: screenshots, long links and code stay inside their card */
+article p img,
+article p video {
+  max-width: 100%;
+  height: auto;
+}
+article p {
+  overflow-wrap: anywhere;
+}
+article pre {
+  max-width: 100%;
+  overflow-x: auto;
+}
+
 a.error-button,
 .submit-button {
   border-radius: 999px;
