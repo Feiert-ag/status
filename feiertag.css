@@ -1,5 +1,5 @@
-/* Feiert.ag status page in the design "Dämmerung" (DOEBELING/Feiert.ag, design/prototyp/marke.css).
-   Replaces the Upptime theme (themeUrl in .upptimerc.yml), light and dark follow the system. */
+/* Feiert.ag status page in the dark variant of the design "Dämmerung" (DOEBELING/Feiert.ag, design/prototyp/marke.css).
+   Replaces the Upptime theme (themeUrl in .upptimerc.yml). */
 
 @font-face {
   font-family: "Fraunces";
@@ -16,82 +16,42 @@
   font-display: swap;
 }
 
-/* Day: paper and ink */
+/* Night: the sky when the party starts. The status page has only this dark design. */
 :root {
-  color-scheme: light;
+  color-scheme: dark;
   --schrift-fest: "Fraunces", "Iowan Old Style", "Palatino Linotype", Georgia, serif;
   --schrift-text: "Figtree", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-  --text-weich: #5B4F6B;
-  --schatten: 0 1px 2px rgba(30, 21, 48, .06), 0 4px 14px rgba(30, 21, 48, .07);
-  --link: #B8361A;
-  --fokus: #5B3FC4;
-  --logo: url("/logo/wortmarke-hell.svg");
+  --text-weich: #CFC3DE;
+  --schatten: 0 1px 2px rgba(0, 0, 0, .3), 0 6px 18px rgba(0, 0, 0, .25);
+  --link: #FF9A7E;
+  --fokus: #FFC94D;
 
-  --body-background-color: #FFF8F1;
-  --body-text-color: #1E1530;
-  --card-background-color: #FFFFFF;
-  --card-border-color: #EADFD6;
-  --nav-background-color: #FFF8F1;
-  --nav-border-bottom-color: #E4D6CB;
-  --nav-current-border-bottom-color: #FF6A48;
-  --up-border-left-color: #1F7A4D;
-  --down-border-left-color: #C12B3F;
-  --down-background-color: #FDE7EA;
+  --body-background-color: #150F26;
+  --body-text-color: #FFF6EC;
+  --card-background-color: #241A3B;
+  --card-border-color: #342853;
+  --nav-background-color: #1C1431;
+  --nav-border-bottom-color: #342853;
+  --nav-current-border-bottom-color: #FF7A59;
+  --up-border-left-color: #5FD89C;
+  --down-border-left-color: #FF7B8A;
+  --down-background-color: #3D1622;
   --degraded-border-left-color: #FFC94D;
-  --tag-color: #FFFFFF;
-  --tag-up-background-color: #1F7A4D;
-  --tag-down-background-color: #C12B3F;
-  --tag-degraded-background-color: #8A5300;
-  --change-background-color: #FFF1D1;
-  --error-button-border-color: #FF6A48;
-  --error-button-background-color: #FF6A48;
+  --tag-color: #1E1530;
+  --tag-up-background-color: #5FD89C;
+  --tag-down-background-color: #FF7B8A;
+  --tag-degraded-background-color: #FFC94D;
+  --change-background-color: #3A2E12;
+  --error-button-border-color: #FF7A59;
+  --error-button-background-color: #FF7A59;
   --error-button-color: #1E1530;
-  --submit-button-border-color: #FF6A48;
-  --submit-button-background-color: #FF6A48;
+  --submit-button-border-color: #FF7A59;
+  --submit-button-background-color: #FF7A59;
   --submit-button-color: #1E1530;
-  --code-color: #1E1530;
-  --code-background-color: #F6EBE1;
+  --code-color: #FFF6EC;
+  --code-background-color: #1C1431;
   --graph-opacity: 1;
   --graph-filter: none;
-}
-
-/* Night: the sky when the party starts */
-@media (prefers-color-scheme: dark) {
-  :root {
-    color-scheme: dark;
-    --text-weich: #CFC3DE;
-    --schatten: 0 1px 2px rgba(0, 0, 0, .3), 0 6px 18px rgba(0, 0, 0, .25);
-    --link: #FF9A7E;
-    --fokus: #FFC94D;
-    --logo: url("/logo/wortmarke-dunkel.svg");
-
-    --body-background-color: #150F26;
-    --body-text-color: #FFF6EC;
-    --card-background-color: #241A3B;
-    --card-border-color: #342853;
-    --nav-background-color: #1C1431;
-    --nav-border-bottom-color: #342853;
-    --nav-current-border-bottom-color: #FF7A59;
-    --up-border-left-color: #5FD89C;
-    --down-border-left-color: #FF7B8A;
-    --down-background-color: #3D1622;
-    --degraded-border-left-color: #FFC94D;
-    --tag-color: #1E1530;
-    --tag-up-background-color: #5FD89C;
-    --tag-down-background-color: #FF7B8A;
-    --tag-degraded-background-color: #FFC94D;
-    --change-background-color: #3A2E12;
-    --error-button-border-color: #FF7A59;
-    --error-button-background-color: #FF7A59;
-    --error-button-color: #1E1530;
-    --submit-button-border-color: #FF7A59;
-    --submit-button-background-color: #FF7A59;
-    --submit-button-color: #1E1530;
-    --code-color: #FFF6EC;
-    --code-background-color: #1C1431;
-    --graph-opacity: 1;
-    --graph-filter: none;
-  }
 }
 
 html body {
@@ -119,7 +79,7 @@ a {
   border-radius: 4px;
 }
 
-/* Navigation with the word mark; the image source follows the colour scheme */
+/* Navigation with the word mark (logoUrl in .upptimerc.yml) */
 nav {
   font-weight: 500;
 }
@@ -132,16 +92,41 @@ nav .logo {
   font-size: 1.25rem;
 }
 nav .logo img {
-  height: 2rem;
+  height: 2rem !important;
   width: 8.25rem;
   object-fit: contain;
-  object-position: -9999px 0;
-  background: var(--logo) no-repeat left center / contain;
+  object-position: left center;
 }
 nav .logo div {
   padding-left: .75rem;
   border-left: 2px solid var(--nav-border-bottom-color);
   color: var(--text-weich);
+}
+
+/* Narrow screens: logo, page name and the link to Feiert.ag fit in one row.
+   Upptime scopes its nav styles with two classes, so these rules need !important. */
+@media (max-width: 599px) {
+  nav {
+    padding: 0 !important;
+  }
+  nav .container {
+    padding: 0 1rem;
+  }
+  nav .logo {
+    margin-right: .5rem !important;
+  }
+  nav .logo img {
+    width: 6.25rem;
+    height: 1.6rem !important;
+    margin-right: .5rem !important;
+  }
+  nav .logo div {
+    padding-left: .5rem;
+    font-size: 1.05rem;
+  }
+  nav ul a {
+    padding: 1.25rem .5rem !important;
+  }
 }
 
 /* Cards like the event page: rounded, soft shadow, coloured edge for the state */
@@ -158,6 +143,20 @@ article.degraded {
   border-radius: 999px;
   font-weight: 600;
   padding: .3rem .65rem;
+}
+
+/* Comments from GitHub on incident pages: screenshots, long links and code stay inside their card */
+article p img,
+article p video {
+  max-width: 100%;
+  height: auto;
+}
+article p {
+  overflow-wrap: anywhere;
+}
+article pre {
+  max-width: 100%;
+  overflow-x: auto;
 }
 
 a.error-button,
