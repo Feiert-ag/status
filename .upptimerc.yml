@@ -12,30 +12,28 @@ sites:
     maxResponseTime: 1000
     skipDeleteIssues: true
 
-# Response time graph on the history pages in Glut, readable in light and dark mode
-graphBorderColor: "#FF6A48"
-graphBackgroundColor: "rgba(255, 106, 72, 0.25)"
+# Response time graph on the history pages in Glut on the dark background
+graphBorderColor: "#FF7A59"
+graphBackgroundColor: "rgba(255, 122, 89, 0.25)"
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.feiert.ag
   robotsText: "User-agent: * \n Disallow: /"
-  # Design "Dämmerung" of Feiert.ag, light and dark follow the system (assets/feiertag.css)
+  # Dark variant of the design "Dämmerung" of Feiert.ag (assets/feiertag.css)
   themeUrl: https://status.feiert.ag/feiertag.css
   # baseUrl: /your-repo-name
-  logoUrl: https://status.feiert.ag/logo/wortmarke-hell.svg
+  logoUrl: https://status.feiert.ag/logo/wortmarke-dunkel.svg
   faviconSvg: https://status.feiert.ag/logo/favicon.svg
   favicon: https://status.feiert.ag/logo-192.png
   name: Status
   introTitle: "Status of Feiert.ag"
+  # Shown once here instead of as an open issue that Upptime lists twice (incident and maintenance)
+  introMessage: "Feiert.ag is still in development and should not be used in production environments yet. Data is not persisted, and the database is reset regularly."
   navbar:
-    - title: Status
-      href: /
     - title: Feiert.ag
       href: https://Feiert.ag
-    - title: Issues on GitHub
-      href: https://github.com/Feiert-ag/status.feiert.ag/issues
 
 i18n:
   footer: This page is [open source]($REPO), powered by [Upptime](https://upptime.js.org)<br>[Impressum](https://legal.doebeling.de/impressum), [Datenschutzerklärung](https://legal.doebeling.de/datenschutzerklaerung)
